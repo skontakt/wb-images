@@ -92,34 +92,43 @@
   "result": {
     "sku": "BOOK-TSAREVSKY-YANDEX-DIRECT-3;BOOK-ABRAMS-9785961451238;BOOK-BUSINESS-GAME-9785000578117;BOOK-BIGGS-9785962602141;BOOK-SCHLEY-9785000570302;BOOK-CAPLES-9785000740514;BOOK-INOZEMTSEVA-9785000571453;BOOK-ELDER-9785961454154",
     "photos": [
-      "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-TSAREVSKY-YANDEX-DIRECT-3-1.jpg?v=a3bdeee1b4e384ef99b91cb780658366bfcdb118",
-      "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-TSAREVSKY-YANDEX-DIRECT-3-2.jpg?v=b143d95688d3d57a0a8c14a15cc2051112e9d4ca",
-      "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-TSAREVSKY-YANDEX-DIRECT-3-3.jpg?v=e3d5fdfd3687ff5b021928dac0370d602eafa855",
-      "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-ABRAMS-9785961451238-1.jpg?v=1210298412c63eaba774a4152aabd0b49153f66b",
-      "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-ABRAMS-9785961451238-2.jpg?v=b4d643745e1364834c3d77c7c8fbe1281e8a2a06",
-      "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-BUSINESS-GAME-9785000578117-1.jpg?v=73b8299f312274274dfbcd4060423fd3cd6e3dce",
-      "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-BUSINESS-GAME-9785000578117-2.jpg?v=1139574370716a18a8450cc5e9168a71051e745c",
-      "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-BUSINESS-GAME-9785000578117-3.jpg?v=5c92ea85b419764e9d9c4421fcf7e2df585de4e6",
-      "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-BIGGS-9785962602141-1.jpg?v=2bf868e951ce2e48429cb104263a81d771a5cffb",
-      "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-BIGGS-9785962602141-2.jpg?v=9713323021a062efce74f35efc70f295dacd53f6",
-      "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-BIGGS-9785962602141-3.jpg?v=ef3eaafc2e4ad48376a62d203686004450dc0672",
-      "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-SCHLEY-9785000570302-1.jpg?v=28d49e53e1f6d02a79c07ff512fc62e3365f4d0b",
-      "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-SCHLEY-9785000570302-2.jpg?v=4575231180a4a56e29360114b0087b3845886063",
-      "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-CAPLES-9785000740514-1.jpg?v=e19a6d4ec5c3495e01bf835b3b323de74ab73938",
-      "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-CAPLES-9785000740514-2.jpg?v=2f5ff0c7d18002327d284048f804b0788e0e4d8c",
-      "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-INOZEMTSEVA-9785000571453-1.jpg?v=5199a7776ff075cc676d3f1a0097c783752625e3",
-      "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-INOZEMTSEVA-9785000571453-2.jpg?v=977c322f724456c11e2197c93f1ef1e19284b072",
-      "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-ELDER-9785961454154-1.jpg?v=5f9e0974ed39b365427529dcd68f7e88c172e51c",
-      "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-ELDER-9785961454154-2.jpg?v=b6b1cd6413b639fb356952ef4233a49fef61bd24"
+      "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-TSAREVSKY-YANDEX-DIRECT-3-1.jpg?v=4856cdb530800b3145a0dffec9e471d2cb2e64cf",
+      "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-TSAREVSKY-YANDEX-DIRECT-3-2.jpg?v=e6790018b2fe8d403e5ff099cb2621454f071561",
+      "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-TSAREVSKY-YANDEX-DIRECT-3-3.jpg?v=b143d95688d3d57a0a8c14a15cc2051112e9d4ca",
+      "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-TSAREVSKY-YANDEX-DIRECT-3-4.jpg?v=e3d5fdfd3687ff5b021928dac0370d602eafa855",
+      "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-ABRAMS-9785961451238-1.jpg?v=c3c8b4003e15161ac0cbb30d3329ad78e740a9e7",
+      "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-ABRAMS-9785961451238-2.jpg?v=9bcbb4a80d598a86a5d9396df31b02b3f98cefc9",
+      "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-ABRAMS-9785961451238-3.jpg?v=b4d643745e1364834c3d77c7c8fbe1281e8a2a06",
+      "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-BUSINESS-GAME-9785000578117-1.jpg?v=5f75be495e718b4f7ede18bd57b471371194503a",
+      "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-BUSINESS-GAME-9785000578117-2.jpg?v=1bd313daae3b57580c3786574edf3c3409692230",
+      "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-BUSINESS-GAME-9785000578117-3.jpg?v=1139574370716a18a8450cc5e9168a71051e745c",
+      "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-BUSINESS-GAME-9785000578117-4.jpg?v=5c92ea85b419764e9d9c4421fcf7e2df585de4e6",
+      "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-BIGGS-9785962602141-1.jpg?v=538c40ff6e4758bbf3cc3374a7a0e337d1a17b02",
+      "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-BIGGS-9785962602141-2.jpg?v=d20a1ded1c9fdf78f208bf2f2bb3ab50f821f2e5",
+      "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-BIGGS-9785962602141-3.jpg?v=9713323021a062efce74f35efc70f295dacd53f6",
+      "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-BIGGS-9785962602141-4.jpg?v=ef3eaafc2e4ad48376a62d203686004450dc0672",
+      "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-SCHLEY-9785000570302-1.jpg?v=284cc0f81f36f872c0ca3d6b22e07f3944cbb119",
+      "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-SCHLEY-9785000570302-2.jpg?v=9118437fb2457b60d9a1ca2efc0c1720ed4af17f",
+      "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-SCHLEY-9785000570302-3.jpg?v=4575231180a4a56e29360114b0087b3845886063",
+      "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-CAPLES-9785000740514-1.jpg?v=67c29ae68d2cda01e05d71bc3105cc050e53ad2a",
+      "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-CAPLES-9785000740514-2.jpg?v=0fe12551f1c12eea30eac87de1b517dbcfa72327",
+      "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-CAPLES-9785000740514-3.jpg?v=2f5ff0c7d18002327d284048f804b0788e0e4d8c",
+      "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-INOZEMTSEVA-9785000571453-1.jpg?v=f373f0d55687180c82ece8e880083959cf36a568",
+      "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-INOZEMTSEVA-9785000571453-2.jpg?v=fc8bb36bf18945c6fc38214e091dd0f4e4eb2a9c",
+      "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-INOZEMTSEVA-9785000571453-3.jpg?v=977c322f724456c11e2197c93f1ef1e19284b072",
+      "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-ELDER-9785961454154-1.jpg?v=fa7086b875a9c1908625c5cd34d2f418d6516d3d",
+      "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-ELDER-9785961454154-2.jpg?v=57834dfe3a0ce7bc1ef7a53f1a7f8725b5ad4272",
+      "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-ELDER-9785961454154-3.jpg?v=b6b1cd6413b639fb356952ef4233a49fef61bd24"
     ],
     "row_url": "https://docs.google.com/spreadsheets/d/1v4-xR4Wv9K7mI9legyHTEiqYcGScewR5UTwJWiBEVwg/edit#gid=985879740&range=A7:AN14",
     "products": [
       {
         "sku": "BOOK-TSAREVSKY-YANDEX-DIRECT-3",
         "photos": [
-          "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-TSAREVSKY-YANDEX-DIRECT-3-1.jpg?v=a3bdeee1b4e384ef99b91cb780658366bfcdb118",
-          "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-TSAREVSKY-YANDEX-DIRECT-3-2.jpg?v=b143d95688d3d57a0a8c14a15cc2051112e9d4ca",
-          "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-TSAREVSKY-YANDEX-DIRECT-3-3.jpg?v=e3d5fdfd3687ff5b021928dac0370d602eafa855"
+          "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-TSAREVSKY-YANDEX-DIRECT-3-1.jpg?v=4856cdb530800b3145a0dffec9e471d2cb2e64cf",
+          "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-TSAREVSKY-YANDEX-DIRECT-3-2.jpg?v=e6790018b2fe8d403e5ff099cb2621454f071561",
+          "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-TSAREVSKY-YANDEX-DIRECT-3-3.jpg?v=b143d95688d3d57a0a8c14a15cc2051112e9d4ca",
+          "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-TSAREVSKY-YANDEX-DIRECT-3-4.jpg?v=e3d5fdfd3687ff5b021928dac0370d602eafa855"
         ],
         "row_url": "https://docs.google.com/spreadsheets/d/1v4-xR4Wv9K7mI9legyHTEiqYcGScewR5UTwJWiBEVwg/edit#gid=985879740&range=A7:AN7",
         "category": "Книги",
@@ -136,13 +145,14 @@
           "d083b1c6f78af1683801c245601ccb3bf68f694876ade593600ed9b3cc3215f5",
           "b2fa3cab68332290d930d72602d33f48c2af38625e6ca60f53297b0d96c48552"
         ],
-        "main_background_replaced": false
+        "main_background_replaced": true
       },
       {
         "sku": "BOOK-ABRAMS-9785961451238",
         "photos": [
-          "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-ABRAMS-9785961451238-1.jpg?v=1210298412c63eaba774a4152aabd0b49153f66b",
-          "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-ABRAMS-9785961451238-2.jpg?v=b4d643745e1364834c3d77c7c8fbe1281e8a2a06"
+          "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-ABRAMS-9785961451238-1.jpg?v=c3c8b4003e15161ac0cbb30d3329ad78e740a9e7",
+          "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-ABRAMS-9785961451238-2.jpg?v=9bcbb4a80d598a86a5d9396df31b02b3f98cefc9",
+          "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-ABRAMS-9785961451238-3.jpg?v=b4d643745e1364834c3d77c7c8fbe1281e8a2a06"
         ],
         "row_url": "https://docs.google.com/spreadsheets/d/1v4-xR4Wv9K7mI9legyHTEiqYcGScewR5UTwJWiBEVwg/edit#gid=985879740&range=A8:AN8",
         "category": "Книги",
@@ -157,14 +167,15 @@
           "6897bebe13ee6f1c672f694b7d0d9303a722cfc40775b6b80aa463fe1b6afc35",
           "9e662a1958125c292a0f70a5f1be8116ce04f41f4ca5a036582918b92d67a6f9"
         ],
-        "main_background_replaced": false
+        "main_background_replaced": true
       },
       {
         "sku": "BOOK-BUSINESS-GAME-9785000578117",
         "photos": [
-          "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-BUSINESS-GAME-9785000578117-1.jpg?v=73b8299f312274274dfbcd4060423fd3cd6e3dce",
-          "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-BUSINESS-GAME-9785000578117-2.jpg?v=1139574370716a18a8450cc5e9168a71051e745c",
-          "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-BUSINESS-GAME-9785000578117-3.jpg?v=5c92ea85b419764e9d9c4421fcf7e2df585de4e6"
+          "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-BUSINESS-GAME-9785000578117-1.jpg?v=5f75be495e718b4f7ede18bd57b471371194503a",
+          "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-BUSINESS-GAME-9785000578117-2.jpg?v=1bd313daae3b57580c3786574edf3c3409692230",
+          "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-BUSINESS-GAME-9785000578117-3.jpg?v=1139574370716a18a8450cc5e9168a71051e745c",
+          "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-BUSINESS-GAME-9785000578117-4.jpg?v=5c92ea85b419764e9d9c4421fcf7e2df585de4e6"
         ],
         "row_url": "https://docs.google.com/spreadsheets/d/1v4-xR4Wv9K7mI9legyHTEiqYcGScewR5UTwJWiBEVwg/edit#gid=985879740&range=A9:AN9",
         "category": "Книги",
@@ -181,14 +192,15 @@
           "bbf436db20bf0957a9dea2b9054c52ed5b29014454674f5200a103c842730690",
           "62978cf7cd4ed7a7445fbbf351f3cd88163942218863a8f2891478e329a6ed36"
         ],
-        "main_background_replaced": false
+        "main_background_replaced": true
       },
       {
         "sku": "BOOK-BIGGS-9785962602141",
         "photos": [
-          "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-BIGGS-9785962602141-1.jpg?v=2bf868e951ce2e48429cb104263a81d771a5cffb",
-          "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-BIGGS-9785962602141-2.jpg?v=9713323021a062efce74f35efc70f295dacd53f6",
-          "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-BIGGS-9785962602141-3.jpg?v=ef3eaafc2e4ad48376a62d203686004450dc0672"
+          "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-BIGGS-9785962602141-1.jpg?v=538c40ff6e4758bbf3cc3374a7a0e337d1a17b02",
+          "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-BIGGS-9785962602141-2.jpg?v=d20a1ded1c9fdf78f208bf2f2bb3ab50f821f2e5",
+          "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-BIGGS-9785962602141-3.jpg?v=9713323021a062efce74f35efc70f295dacd53f6",
+          "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-BIGGS-9785962602141-4.jpg?v=ef3eaafc2e4ad48376a62d203686004450dc0672"
         ],
         "row_url": "https://docs.google.com/spreadsheets/d/1v4-xR4Wv9K7mI9legyHTEiqYcGScewR5UTwJWiBEVwg/edit#gid=985879740&range=A10:AN10",
         "category": "Книги",
@@ -205,13 +217,14 @@
           "ec6457fab35976b770aa36032945ecf3dad0d0b550688d76f8ebbd60838ffa8d",
           "73473b100d2c1a2fcd1848564af53ccfcab87f2aa323083850f75dac5c322592"
         ],
-        "main_background_replaced": false
+        "main_background_replaced": true
       },
       {
         "sku": "BOOK-SCHLEY-9785000570302",
         "photos": [
-          "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-SCHLEY-9785000570302-1.jpg?v=28d49e53e1f6d02a79c07ff512fc62e3365f4d0b",
-          "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-SCHLEY-9785000570302-2.jpg?v=4575231180a4a56e29360114b0087b3845886063"
+          "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-SCHLEY-9785000570302-1.jpg?v=284cc0f81f36f872c0ca3d6b22e07f3944cbb119",
+          "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-SCHLEY-9785000570302-2.jpg?v=9118437fb2457b60d9a1ca2efc0c1720ed4af17f",
+          "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-SCHLEY-9785000570302-3.jpg?v=4575231180a4a56e29360114b0087b3845886063"
         ],
         "row_url": "https://docs.google.com/spreadsheets/d/1v4-xR4Wv9K7mI9legyHTEiqYcGScewR5UTwJWiBEVwg/edit#gid=985879740&range=A11:AN11",
         "category": "Книги",
@@ -226,13 +239,14 @@
           "f5fb9deeb9a647c3952a5ecb3a5d87e7dd46afd4bedeca7b2e0af197e9dd85da",
           "d00bc2ea7bbe1587603b92879b4051a79438a17a650c2ba6dd42981d820376df"
         ],
-        "main_background_replaced": false
+        "main_background_replaced": true
       },
       {
         "sku": "BOOK-CAPLES-9785000740514",
         "photos": [
-          "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-CAPLES-9785000740514-1.jpg?v=e19a6d4ec5c3495e01bf835b3b323de74ab73938",
-          "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-CAPLES-9785000740514-2.jpg?v=2f5ff0c7d18002327d284048f804b0788e0e4d8c"
+          "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-CAPLES-9785000740514-1.jpg?v=67c29ae68d2cda01e05d71bc3105cc050e53ad2a",
+          "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-CAPLES-9785000740514-2.jpg?v=0fe12551f1c12eea30eac87de1b517dbcfa72327",
+          "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-CAPLES-9785000740514-3.jpg?v=2f5ff0c7d18002327d284048f804b0788e0e4d8c"
         ],
         "row_url": "https://docs.google.com/spreadsheets/d/1v4-xR4Wv9K7mI9legyHTEiqYcGScewR5UTwJWiBEVwg/edit#gid=985879740&range=A12:AN12",
         "category": "Книги",
@@ -247,13 +261,14 @@
           "9f84e2588c37822d9ac5969d94b83c3611a2cb192b0906d09b1b31c1b16b2b84",
           "c831eb4638257dd906d5fb1c1001b73fbaebf8df4c1022fb852bbdb811d85a85"
         ],
-        "main_background_replaced": false
+        "main_background_replaced": true
       },
       {
         "sku": "BOOK-INOZEMTSEVA-9785000571453",
         "photos": [
-          "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-INOZEMTSEVA-9785000571453-1.jpg?v=5199a7776ff075cc676d3f1a0097c783752625e3",
-          "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-INOZEMTSEVA-9785000571453-2.jpg?v=977c322f724456c11e2197c93f1ef1e19284b072"
+          "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-INOZEMTSEVA-9785000571453-1.jpg?v=f373f0d55687180c82ece8e880083959cf36a568",
+          "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-INOZEMTSEVA-9785000571453-2.jpg?v=fc8bb36bf18945c6fc38214e091dd0f4e4eb2a9c",
+          "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-INOZEMTSEVA-9785000571453-3.jpg?v=977c322f724456c11e2197c93f1ef1e19284b072"
         ],
         "row_url": "https://docs.google.com/spreadsheets/d/1v4-xR4Wv9K7mI9legyHTEiqYcGScewR5UTwJWiBEVwg/edit#gid=985879740&range=A13:AN13",
         "category": "Книги",
@@ -268,13 +283,14 @@
           "7e266a8aead3b0f35d2e1cfa4b088be85f6e9ccf9feff999fa44243d4ab7b98f",
           "554492f662561d8412c58e53076209bc3bcd14ab06347d23ae3d22fb3eaa2119"
         ],
-        "main_background_replaced": false
+        "main_background_replaced": true
       },
       {
         "sku": "BOOK-ELDER-9785961454154",
         "photos": [
-          "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-ELDER-9785961454154-1.jpg?v=5f9e0974ed39b365427529dcd68f7e88c172e51c",
-          "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-ELDER-9785961454154-2.jpg?v=b6b1cd6413b639fb356952ef4233a49fef61bd24"
+          "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-ELDER-9785961454154-1.jpg?v=fa7086b875a9c1908625c5cd34d2f418d6516d3d",
+          "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-ELDER-9785961454154-2.jpg?v=57834dfe3a0ce7bc1ef7a53f1a7f8725b5ad4272",
+          "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-ELDER-9785961454154-3.jpg?v=b6b1cd6413b639fb356952ef4233a49fef61bd24"
         ],
         "row_url": "https://docs.google.com/spreadsheets/d/1v4-xR4Wv9K7mI9legyHTEiqYcGScewR5UTwJWiBEVwg/edit#gid=985879740&range=A14:AN14",
         "category": "Книги",
@@ -289,10 +305,235 @@
           "3ff3cd2419733ea5a7eedf8958bad71d1f2b9b60e321ec798822a7ea8a721129",
           "0b489e3217690d82d727a09095faddba3c8180653e0314d77f54b713c5940815"
         ],
-        "main_background_replaced": false
+        "main_background_replaced": true
       }
     ],
     "sheets_verified_at": "2026-11-12T09:33:07.529991+00:00",
     "wb_published": false
-  }
+  },
+  "prior_results": [
+    {
+      "sku": "BOOK-TSAREVSKY-YANDEX-DIRECT-3;BOOK-ABRAMS-9785961451238;BOOK-BUSINESS-GAME-9785000578117;BOOK-BIGGS-9785962602141;BOOK-SCHLEY-9785000570302;BOOK-CAPLES-9785000740514;BOOK-INOZEMTSEVA-9785000571453;BOOK-ELDER-9785961454154",
+      "photos": [
+        "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-TSAREVSKY-YANDEX-DIRECT-3-1.jpg?v=4856cdb530800b3145a0dffec9e471d2cb2e64cf",
+        "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-TSAREVSKY-YANDEX-DIRECT-3-2.jpg?v=e6790018b2fe8d403e5ff099cb2621454f071561",
+        "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-TSAREVSKY-YANDEX-DIRECT-3-3.jpg?v=b143d95688d3d57a0a8c14a15cc2051112e9d4ca",
+        "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-TSAREVSKY-YANDEX-DIRECT-3-4.jpg?v=e3d5fdfd3687ff5b021928dac0370d602eafa855",
+        "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-ABRAMS-9785961451238-1.jpg?v=c3c8b4003e15161ac0cbb30d3329ad78e740a9e7",
+        "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-ABRAMS-9785961451238-2.jpg?v=9bcbb4a80d598a86a5d9396df31b02b3f98cefc9",
+        "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-ABRAMS-9785961451238-3.jpg?v=b4d643745e1364834c3d77c7c8fbe1281e8a2a06",
+        "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-BUSINESS-GAME-9785000578117-1.jpg?v=5f75be495e718b4f7ede18bd57b471371194503a",
+        "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-BUSINESS-GAME-9785000578117-2.jpg?v=1bd313daae3b57580c3786574edf3c3409692230",
+        "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-BUSINESS-GAME-9785000578117-3.jpg?v=1139574370716a18a8450cc5e9168a71051e745c",
+        "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-BUSINESS-GAME-9785000578117-4.jpg?v=5c92ea85b419764e9d9c4421fcf7e2df585de4e6",
+        "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-BIGGS-9785962602141-1.jpg?v=538c40ff6e4758bbf3cc3374a7a0e337d1a17b02",
+        "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-BIGGS-9785962602141-2.jpg?v=d20a1ded1c9fdf78f208bf2f2bb3ab50f821f2e5",
+        "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-BIGGS-9785962602141-3.jpg?v=9713323021a062efce74f35efc70f295dacd53f6",
+        "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-BIGGS-9785962602141-4.jpg?v=ef3eaafc2e4ad48376a62d203686004450dc0672",
+        "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-SCHLEY-9785000570302-1.jpg?v=284cc0f81f36f872c0ca3d6b22e07f3944cbb119",
+        "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-SCHLEY-9785000570302-2.jpg?v=9118437fb2457b60d9a1ca2efc0c1720ed4af17f",
+        "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-SCHLEY-9785000570302-3.jpg?v=4575231180a4a56e29360114b0087b3845886063",
+        "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-CAPLES-9785000740514-1.jpg?v=67c29ae68d2cda01e05d71bc3105cc050e53ad2a",
+        "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-CAPLES-9785000740514-2.jpg?v=0fe12551f1c12eea30eac87de1b517dbcfa72327",
+        "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-CAPLES-9785000740514-3.jpg?v=2f5ff0c7d18002327d284048f804b0788e0e4d8c",
+        "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-INOZEMTSEVA-9785000571453-1.jpg?v=f373f0d55687180c82ece8e880083959cf36a568",
+        "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-INOZEMTSEVA-9785000571453-2.jpg?v=fc8bb36bf18945c6fc38214e091dd0f4e4eb2a9c",
+        "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-INOZEMTSEVA-9785000571453-3.jpg?v=977c322f724456c11e2197c93f1ef1e19284b072",
+        "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-ELDER-9785961454154-1.jpg?v=fa7086b875a9c1908625c5cd34d2f418d6516d3d",
+        "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-ELDER-9785961454154-2.jpg?v=57834dfe3a0ce7bc1ef7a53f1a7f8725b5ad4272",
+        "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-ELDER-9785961454154-3.jpg?v=b6b1cd6413b639fb356952ef4233a49fef61bd24"
+      ],
+      "row_url": "https://docs.google.com/spreadsheets/d/1v4-xR4Wv9K7mI9legyHTEiqYcGScewR5UTwJWiBEVwg/edit#gid=985879740&range=A7:AN14",
+      "products": [
+        {
+          "sku": "BOOK-TSAREVSKY-YANDEX-DIRECT-3",
+          "photos": [
+            "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-TSAREVSKY-YANDEX-DIRECT-3-1.jpg?v=4856cdb530800b3145a0dffec9e471d2cb2e64cf",
+            "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-TSAREVSKY-YANDEX-DIRECT-3-2.jpg?v=e6790018b2fe8d403e5ff099cb2621454f071561",
+            "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-TSAREVSKY-YANDEX-DIRECT-3-3.jpg?v=b143d95688d3d57a0a8c14a15cc2051112e9d4ca",
+            "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-TSAREVSKY-YANDEX-DIRECT-3-4.jpg?v=e3d5fdfd3687ff5b021928dac0370d602eafa855"
+          ],
+          "row_url": "https://docs.google.com/spreadsheets/d/1v4-xR4Wv9K7mI9legyHTEiqYcGScewR5UTwJWiBEVwg/edit#gid=985879740&range=A7:AN7",
+          "category": "Книги",
+          "price": 5000,
+          "quantity": 1,
+          "product_key": "inbox-43a4ea2b3ef88674-1",
+          "source_files": [
+            "1.jpg",
+            "12.jpg",
+            "13.jpg"
+          ],
+          "source_sha256": [
+            "9a9099514a102e577b04d451c664df38fa5efa7e8880838dcae2280cdaecf8ae",
+            "d083b1c6f78af1683801c245601ccb3bf68f694876ade593600ed9b3cc3215f5",
+            "b2fa3cab68332290d930d72602d33f48c2af38625e6ca60f53297b0d96c48552"
+          ],
+          "main_background_replaced": true
+        },
+        {
+          "sku": "BOOK-ABRAMS-9785961451238",
+          "photos": [
+            "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-ABRAMS-9785961451238-1.jpg?v=c3c8b4003e15161ac0cbb30d3329ad78e740a9e7",
+            "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-ABRAMS-9785961451238-2.jpg?v=9bcbb4a80d598a86a5d9396df31b02b3f98cefc9",
+            "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-ABRAMS-9785961451238-3.jpg?v=b4d643745e1364834c3d77c7c8fbe1281e8a2a06"
+          ],
+          "row_url": "https://docs.google.com/spreadsheets/d/1v4-xR4Wv9K7mI9legyHTEiqYcGScewR5UTwJWiBEVwg/edit#gid=985879740&range=A8:AN8",
+          "category": "Книги",
+          "price": 5000,
+          "quantity": 1,
+          "product_key": "inbox-43a4ea2b3ef88674-2",
+          "source_files": [
+            "14.jpg",
+            "15.jpg"
+          ],
+          "source_sha256": [
+            "6897bebe13ee6f1c672f694b7d0d9303a722cfc40775b6b80aa463fe1b6afc35",
+            "9e662a1958125c292a0f70a5f1be8116ce04f41f4ca5a036582918b92d67a6f9"
+          ],
+          "main_background_replaced": true
+        },
+        {
+          "sku": "BOOK-BUSINESS-GAME-9785000578117",
+          "photos": [
+            "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-BUSINESS-GAME-9785000578117-1.jpg?v=5f75be495e718b4f7ede18bd57b471371194503a",
+            "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-BUSINESS-GAME-9785000578117-2.jpg?v=1bd313daae3b57580c3786574edf3c3409692230",
+            "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-BUSINESS-GAME-9785000578117-3.jpg?v=1139574370716a18a8450cc5e9168a71051e745c",
+            "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-BUSINESS-GAME-9785000578117-4.jpg?v=5c92ea85b419764e9d9c4421fcf7e2df585de4e6"
+          ],
+          "row_url": "https://docs.google.com/spreadsheets/d/1v4-xR4Wv9K7mI9legyHTEiqYcGScewR5UTwJWiBEVwg/edit#gid=985879740&range=A9:AN9",
+          "category": "Книги",
+          "price": 3000,
+          "quantity": 1,
+          "product_key": "inbox-43a4ea2b3ef88674-3",
+          "source_files": [
+            "16.jpg",
+            "17.jpg",
+            "18.jpg"
+          ],
+          "source_sha256": [
+            "8f8f18d88510cf3cd7745cd9fe31d88a47459ec48d1b52471b2f620160585f4b",
+            "bbf436db20bf0957a9dea2b9054c52ed5b29014454674f5200a103c842730690",
+            "62978cf7cd4ed7a7445fbbf351f3cd88163942218863a8f2891478e329a6ed36"
+          ],
+          "main_background_replaced": true
+        },
+        {
+          "sku": "BOOK-BIGGS-9785962602141",
+          "photos": [
+            "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-BIGGS-9785962602141-1.jpg?v=538c40ff6e4758bbf3cc3374a7a0e337d1a17b02",
+            "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-BIGGS-9785962602141-2.jpg?v=d20a1ded1c9fdf78f208bf2f2bb3ab50f821f2e5",
+            "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-BIGGS-9785962602141-3.jpg?v=9713323021a062efce74f35efc70f295dacd53f6",
+            "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-BIGGS-9785962602141-4.jpg?v=ef3eaafc2e4ad48376a62d203686004450dc0672"
+          ],
+          "row_url": "https://docs.google.com/spreadsheets/d/1v4-xR4Wv9K7mI9legyHTEiqYcGScewR5UTwJWiBEVwg/edit#gid=985879740&range=A10:AN10",
+          "category": "Книги",
+          "price": 3000,
+          "quantity": 1,
+          "product_key": "inbox-43a4ea2b3ef88674-4",
+          "source_files": [
+            "19.jpg",
+            "2.jpg",
+            "3.jpg"
+          ],
+          "source_sha256": [
+            "ed4b05fd483d556cb385c32cf87449203d01c7f40a0c787d2b3b450e09df5049",
+            "ec6457fab35976b770aa36032945ecf3dad0d0b550688d76f8ebbd60838ffa8d",
+            "73473b100d2c1a2fcd1848564af53ccfcab87f2aa323083850f75dac5c322592"
+          ],
+          "main_background_replaced": true
+        },
+        {
+          "sku": "BOOK-SCHLEY-9785000570302",
+          "photos": [
+            "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-SCHLEY-9785000570302-1.jpg?v=284cc0f81f36f872c0ca3d6b22e07f3944cbb119",
+            "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-SCHLEY-9785000570302-2.jpg?v=9118437fb2457b60d9a1ca2efc0c1720ed4af17f",
+            "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-SCHLEY-9785000570302-3.jpg?v=4575231180a4a56e29360114b0087b3845886063"
+          ],
+          "row_url": "https://docs.google.com/spreadsheets/d/1v4-xR4Wv9K7mI9legyHTEiqYcGScewR5UTwJWiBEVwg/edit#gid=985879740&range=A11:AN11",
+          "category": "Книги",
+          "price": 2000,
+          "quantity": 1,
+          "product_key": "inbox-43a4ea2b3ef88674-5",
+          "source_files": [
+            "4.jpg",
+            "5.jpg"
+          ],
+          "source_sha256": [
+            "f5fb9deeb9a647c3952a5ecb3a5d87e7dd46afd4bedeca7b2e0af197e9dd85da",
+            "d00bc2ea7bbe1587603b92879b4051a79438a17a650c2ba6dd42981d820376df"
+          ],
+          "main_background_replaced": true
+        },
+        {
+          "sku": "BOOK-CAPLES-9785000740514",
+          "photos": [
+            "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-CAPLES-9785000740514-1.jpg?v=67c29ae68d2cda01e05d71bc3105cc050e53ad2a",
+            "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-CAPLES-9785000740514-2.jpg?v=0fe12551f1c12eea30eac87de1b517dbcfa72327",
+            "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-CAPLES-9785000740514-3.jpg?v=2f5ff0c7d18002327d284048f804b0788e0e4d8c"
+          ],
+          "row_url": "https://docs.google.com/spreadsheets/d/1v4-xR4Wv9K7mI9legyHTEiqYcGScewR5UTwJWiBEVwg/edit#gid=985879740&range=A12:AN12",
+          "category": "Книги",
+          "price": 3000,
+          "quantity": 1,
+          "product_key": "inbox-43a4ea2b3ef88674-6",
+          "source_files": [
+            "6.jpg",
+            "7.jpg"
+          ],
+          "source_sha256": [
+            "9f84e2588c37822d9ac5969d94b83c3611a2cb192b0906d09b1b31c1b16b2b84",
+            "c831eb4638257dd906d5fb1c1001b73fbaebf8df4c1022fb852bbdb811d85a85"
+          ],
+          "main_background_replaced": true
+        },
+        {
+          "sku": "BOOK-INOZEMTSEVA-9785000571453",
+          "photos": [
+            "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-INOZEMTSEVA-9785000571453-1.jpg?v=f373f0d55687180c82ece8e880083959cf36a568",
+            "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-INOZEMTSEVA-9785000571453-2.jpg?v=fc8bb36bf18945c6fc38214e091dd0f4e4eb2a9c",
+            "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-INOZEMTSEVA-9785000571453-3.jpg?v=977c322f724456c11e2197c93f1ef1e19284b072"
+          ],
+          "row_url": "https://docs.google.com/spreadsheets/d/1v4-xR4Wv9K7mI9legyHTEiqYcGScewR5UTwJWiBEVwg/edit#gid=985879740&range=A13:AN13",
+          "category": "Книги",
+          "price": 2000,
+          "quantity": 1,
+          "product_key": "inbox-43a4ea2b3ef88674-7",
+          "source_files": [
+            "8.jpg",
+            "9.jpg"
+          ],
+          "source_sha256": [
+            "7e266a8aead3b0f35d2e1cfa4b088be85f6e9ccf9feff999fa44243d4ab7b98f",
+            "554492f662561d8412c58e53076209bc3bcd14ab06347d23ae3d22fb3eaa2119"
+          ],
+          "main_background_replaced": true
+        },
+        {
+          "sku": "BOOK-ELDER-9785961454154",
+          "photos": [
+            "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-ELDER-9785961454154-1.jpg?v=fa7086b875a9c1908625c5cd34d2f418d6516d3d",
+            "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-ELDER-9785961454154-2.jpg?v=57834dfe3a0ce7bc1ef7a53f1a7f8725b5ad4272",
+            "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BOOK-ELDER-9785961454154-3.jpg?v=b6b1cd6413b639fb356952ef4233a49fef61bd24"
+          ],
+          "row_url": "https://docs.google.com/spreadsheets/d/1v4-xR4Wv9K7mI9legyHTEiqYcGScewR5UTwJWiBEVwg/edit#gid=985879740&range=A14:AN14",
+          "category": "Книги",
+          "price": 6000,
+          "quantity": 1,
+          "product_key": "inbox-43a4ea2b3ef88674-8",
+          "source_files": [
+            "10.jpg",
+            "11.jpg"
+          ],
+          "source_sha256": [
+            "3ff3cd2419733ea5a7eedf8958bad71d1f2b9b60e321ec798822a7ea8a721129",
+            "0b489e3217690d82d727a09095faddba3c8180653e0314d77f54b713c5940815"
+          ],
+          "main_background_replaced": true
+        }
+      ],
+      "sheets_verified_at": "2026-11-12T09:33:07.529991+00:00",
+      "wb_published": false
+    }
+  ],
+  "restyled_at": "2026-11-12T10:46:54.853021+00:00"
 }
