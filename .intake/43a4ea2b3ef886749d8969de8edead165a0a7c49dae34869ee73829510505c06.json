@@ -1,0 +1,90 @@
+{
+  "id": "43a4ea2b3ef886749d8969de8edead165a0a7c49dae34869ee73829510505c06",
+  "group": "_root",
+  "files": [
+    {
+      "path": "new/book-1.jpg",
+      "sha": "826e21d34c9114527ae47a4da548b359d1d56ff2"
+    },
+    {
+      "path": "new/book-10.jpg",
+      "sha": "c1dbdb397bba92709b9dfbebb8053f8858003ef2"
+    },
+    {
+      "path": "new/book-11.jpg",
+      "sha": "21fadba96ffcfcfabff26b16cfcb9499052e0ab2"
+    },
+    {
+      "path": "new/book-12.jpg",
+      "sha": "31b017d805a8f4c90fc8a925860e11b4a8169a22"
+    },
+    {
+      "path": "new/book-13.jpg",
+      "sha": "d417188f84953cde1bfe614383a28cf195016192"
+    },
+    {
+      "path": "new/book-14.jpg",
+      "sha": "3b138743a9a0aa8087069da16b24d29b91ceab56"
+    },
+    {
+      "path": "new/book-15.jpg",
+      "sha": "cf0645d371f27b9884cb53aa8d20dfee09093ea7"
+    },
+    {
+      "path": "new/book-16.jpg",
+      "sha": "06613771081db3d837f511d6445f9d21cdbba784"
+    },
+    {
+      "path": "new/book-17.jpg",
+      "sha": "babcefa9408f6580be743fa3f7d62c6f94a8354a"
+    },
+    {
+      "path": "new/book-18.jpg",
+      "sha": "729c2740a7b8a0d519f9257e459c6a9b7536c8ed"
+    },
+    {
+      "path": "new/book-19.jpg",
+      "sha": "48b2c8b72a9de7451c41db179984ee40b43659eb"
+    },
+    {
+      "path": "new/book-2.jpg",
+      "sha": "374d93bfc8665c224e55d945bf71e3e905c1680a"
+    },
+    {
+      "path": "new/book-3.jpg",
+      "sha": "32ba4bd6d87f1333fbac3d22751356bb180f18ec"
+    },
+    {
+      "path": "new/book-4.jpg",
+      "sha": "d0098a55b2bb79a3c4cfd85142937ae49899da76"
+    },
+    {
+      "path": "new/book-5.jpg",
+      "sha": "978d0c881c009f689be50ba39e7a9b105f96274b"
+    },
+    {
+      "path": "new/book-6.jpg",
+      "sha": "7794290a763006e8cb9cb958f7ecacbc01cbbbc3"
+    },
+    {
+      "path": "new/book-7.jpg",
+      "sha": "d1e93a40de96ac0f3b66eb2e348e4c0018305564"
+    },
+    {
+      "path": "new/book-8.jpg",
+      "sha": "cdceab85a50d82a5bd258745daf950944575bd1a"
+    },
+    {
+      "path": "new/book-9.jpg",
+      "sha": "26aed7b3ccac01a06538dfcf6f4e9a2338f636da"
+    }
+  ],
+  "status": "awaiting_details",
+  "discovered_at": "2026-11-12T09:19:57.746082+00:00",
+  "questions": [
+    "Категория WB?",
+    "Цена?",
+    "Количество?",
+    "Менять ли стандартный промпт обработки фото? Если да, как?"
+  ]
+}
