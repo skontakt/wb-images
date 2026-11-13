@@ -129,9 +129,373 @@
       "sha": "775e29248d77b39e0d74c8701c7d0783f3a196cd"
     }
   ],
-  "status": "awaiting_details",
+  "status": "processed",
   "id": "21592407b2377622d312f37261a507637a81a11c39333ef6bee028b9b982c407",
   "discovered_at": "2026-11-13T13:27:42.932207+00:00",
   "group": "user-selected-100-131",
-  "parent_job": "manual-selected-magazines"
+  "parent_job": "manual-selected-magazines",
+  "processed_at": "2026-11-13T13:31:56.285753+00:00",
+  "cleanup_policy": "manual",
+  "result": {
+    "sku": "BATCH-MAG-100-131",
+    "photos": [
+      "https://raw.githubusercontent.com/skontakt/wb-images/7f7449b3c2323f37b4fedb164ebe36d965349340/images/MAG-BUSINESS-GOALS3-131-1.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/7f7449b3c2323f37b4fedb164ebe36d965349340/images/MAG-DILETANT-100-1.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/7f7449b3c2323f37b4fedb164ebe36d965349340/images/MAG-FOMA-126-1.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/7f7449b3c2323f37b4fedb164ebe36d965349340/images/MAG-HBR-104-1.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/7f7449b3c2323f37b4fedb164ebe36d965349340/images/MAG-HBR-105-1.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/7f7449b3c2323f37b4fedb164ebe36d965349340/images/MAG-HBR-106-1.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/7f7449b3c2323f37b4fedb164ebe36d965349340/images/MAG-HBR-107-1.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/7f7449b3c2323f37b4fedb164ebe36d965349340/images/MAG-HBR-108-1.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/7f7449b3c2323f37b4fedb164ebe36d965349340/images/MAG-HBR-109-1.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/7f7449b3c2323f37b4fedb164ebe36d965349340/images/MAG-HBR-110-1.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/7f7449b3c2323f37b4fedb164ebe36d965349340/images/MAG-HBR-111-1.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/7f7449b3c2323f37b4fedb164ebe36d965349340/images/MAG-HBR-112-1.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/7f7449b3c2323f37b4fedb164ebe36d965349340/images/MAG-HBR-113-1.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/7f7449b3c2323f37b4fedb164ebe36d965349340/images/MAG-HBR-114-1.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/7f7449b3c2323f37b4fedb164ebe36d965349340/images/MAG-HBR-115-1.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/7f7449b3c2323f37b4fedb164ebe36d965349340/images/MAG-HBR-116-1.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/7f7449b3c2323f37b4fedb164ebe36d965349340/images/MAG-HBR-117-1.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/7f7449b3c2323f37b4fedb164ebe36d965349340/images/MAG-HBR-118-1.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/7f7449b3c2323f37b4fedb164ebe36d965349340/images/MAG-HBR-119-1.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/7f7449b3c2323f37b4fedb164ebe36d965349340/images/MAG-HBR-120-1.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/7f7449b3c2323f37b4fedb164ebe36d965349340/images/MAG-HBR-121-1.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/7f7449b3c2323f37b4fedb164ebe36d965349340/images/MAG-HBR-130-1.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/7f7449b3c2323f37b4fedb164ebe36d965349340/images/MAG-LOCAL-2024-101-1.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/7f7449b3c2323f37b4fedb164ebe36d965349340/images/MAG-LOCAL-2024-101-2.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/7f7449b3c2323f37b4fedb164ebe36d965349340/images/MAG-LOCAL-2025-103-1.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/7f7449b3c2323f37b4fedb164ebe36d965349340/images/MAG-NOVAYA-ROSSIYA-127-1.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/7f7449b3c2323f37b4fedb164ebe36d965349340/images/MAG-NOVAYA-ROSSIYA-127-2.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/7f7449b3c2323f37b4fedb164ebe36d965349340/images/MAG-NOVAYA-ROSSIYA-127-3.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/7f7449b3c2323f37b4fedb164ebe36d965349340/images/MAG-RODINA-122-1.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/7f7449b3c2323f37b4fedb164ebe36d965349340/images/MAG-RODINA-123-1.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/7f7449b3c2323f37b4fedb164ebe36d965349340/images/MAG-RODINA-124-1.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/7f7449b3c2323f37b4fedb164ebe36d965349340/images/MAG-RODINA-125-1.jpg"
+    ],
+    "row_url": "https://docs.google.com/spreadsheets/d/1v4-xR4Wv9K7mI9legyHTEiqYcGScewR5UTwJWiBEVwg/edit#gid=985879740&range=A36:AN64",
+    "products": [
+      {
+        "sku": "MAG-DILETANT-100",
+        "row": 36,
+        "sources": [
+          100
+        ],
+        "price": 1500,
+        "discount": 30,
+        "quantity": 1,
+        "category": "Журналы"
+      },
+      {
+        "sku": "MAG-LOCAL-2024-101",
+        "row": 37,
+        "sources": [
+          101,
+          102
+        ],
+        "price": 1500,
+        "discount": 30,
+        "quantity": 1,
+        "category": "Журналы"
+      },
+      {
+        "sku": "MAG-LOCAL-2025-103",
+        "row": 38,
+        "sources": [
+          103
+        ],
+        "price": 1500,
+        "discount": 30,
+        "quantity": 1,
+        "category": "Журналы"
+      },
+      {
+        "sku": "MAG-HBR-104",
+        "row": 39,
+        "sources": [
+          104
+        ],
+        "price": 1500,
+        "discount": 30,
+        "quantity": 1,
+        "category": "Журналы"
+      },
+      {
+        "sku": "MAG-HBR-105",
+        "row": 40,
+        "sources": [
+          105
+        ],
+        "price": 1500,
+        "discount": 30,
+        "quantity": 1,
+        "category": "Журналы"
+      },
+      {
+        "sku": "MAG-HBR-106",
+        "row": 41,
+        "sources": [
+          106
+        ],
+        "price": 1500,
+        "discount": 30,
+        "quantity": 1,
+        "category": "Журналы"
+      },
+      {
+        "sku": "MAG-HBR-107",
+        "row": 42,
+        "sources": [
+          107
+        ],
+        "price": 1500,
+        "discount": 30,
+        "quantity": 1,
+        "category": "Журналы"
+      },
+      {
+        "sku": "MAG-HBR-108",
+        "row": 43,
+        "sources": [
+          108
+        ],
+        "price": 1500,
+        "discount": 30,
+        "quantity": 1,
+        "category": "Журналы"
+      },
+      {
+        "sku": "MAG-HBR-109",
+        "row": 44,
+        "sources": [
+          109
+        ],
+        "price": 1500,
+        "discount": 30,
+        "quantity": 1,
+        "category": "Журналы"
+      },
+      {
+        "sku": "MAG-HBR-110",
+        "row": 45,
+        "sources": [
+          110
+        ],
+        "price": 1500,
+        "discount": 30,
+        "quantity": 1,
+        "category": "Журналы"
+      },
+      {
+        "sku": "MAG-HBR-111",
+        "row": 46,
+        "sources": [
+          111
+        ],
+        "price": 1500,
+        "discount": 30,
+        "quantity": 1,
+        "category": "Журналы"
+      },
+      {
+        "sku": "MAG-HBR-112",
+        "row": 47,
+        "sources": [
+          112
+        ],
+        "price": 1500,
+        "discount": 30,
+        "quantity": 1,
+        "category": "Журналы"
+      },
+      {
+        "sku": "MAG-HBR-113",
+        "row": 48,
+        "sources": [
+          113
+        ],
+        "price": 1500,
+        "discount": 30,
+        "quantity": 1,
+        "category": "Журналы"
+      },
+      {
+        "sku": "MAG-HBR-114",
+        "row": 49,
+        "sources": [
+          114
+        ],
+        "price": 1500,
+        "discount": 30,
+        "quantity": 1,
+        "category": "Журналы"
+      },
+      {
+        "sku": "MAG-HBR-115",
+        "row": 50,
+        "sources": [
+          115
+        ],
+        "price": 1500,
+        "discount": 30,
+        "quantity": 1,
+        "category": "Журналы"
+      },
+      {
+        "sku": "MAG-HBR-116",
+        "row": 51,
+        "sources": [
+          116
+        ],
+        "price": 1500,
+        "discount": 30,
+        "quantity": 1,
+        "category": "Журналы"
+      },
+      {
+        "sku": "MAG-HBR-117",
+        "row": 52,
+        "sources": [
+          117
+        ],
+        "price": 1500,
+        "discount": 30,
+        "quantity": 1,
+        "category": "Журналы"
+      },
+      {
+        "sku": "MAG-HBR-118",
+        "row": 53,
+        "sources": [
+          118
+        ],
+        "price": 1500,
+        "discount": 30,
+        "quantity": 1,
+        "category": "Журналы"
+      },
+      {
+        "sku": "MAG-HBR-119",
+        "row": 54,
+        "sources": [
+          119
+        ],
+        "price": 1500,
+        "discount": 30,
+        "quantity": 1,
+        "category": "Журналы"
+      },
+      {
+        "sku": "MAG-HBR-120",
+        "row": 55,
+        "sources": [
+          120
+        ],
+        "price": 1500,
+        "discount": 30,
+        "quantity": 1,
+        "category": "Журналы"
+      },
+      {
+        "sku": "MAG-HBR-121",
+        "row": 56,
+        "sources": [
+          121
+        ],
+        "price": 1500,
+        "discount": 30,
+        "quantity": 1,
+        "category": "Журналы"
+      },
+      {
+        "sku": "MAG-RODINA-122",
+        "row": 57,
+        "sources": [
+          122
+        ],
+        "price": 800,
+        "discount": 30,
+        "quantity": 1,
+        "category": "Журналы"
+      },
+      {
+        "sku": "MAG-RODINA-123",
+        "row": 58,
+        "sources": [
+          123
+        ],
+        "price": 800,
+        "discount": 30,
+        "quantity": 1,
+        "category": "Журналы"
+      },
+      {
+        "sku": "MAG-RODINA-124",
+        "row": 59,
+        "sources": [
+          124
+        ],
+        "price": 800,
+        "discount": 30,
+        "quantity": 1,
+        "category": "Журналы"
+      },
+      {
+        "sku": "MAG-RODINA-125",
+        "row": 60,
+        "sources": [
+          125
+        ],
+        "price": 800,
+        "discount": 30,
+        "quantity": 1,
+        "category": "Журналы"
+      },
+      {
+        "sku": "MAG-FOMA-126",
+        "row": 61,
+        "sources": [
+          126
+        ],
+        "price": 800,
+        "discount": 30,
+        "quantity": 1,
+        "category": "Журналы"
+      },
+      {
+        "sku": "MAG-NOVAYA-ROSSIYA-127",
+        "row": 62,
+        "sources": [
+          127,
+          128,
+          129
+        ],
+        "price": 2000,
+        "discount": 30,
+        "quantity": 1,
+        "category": "Журналы"
+      },
+      {
+        "sku": "MAG-HBR-130",
+        "row": 63,
+        "sources": [
+          130
+        ],
+        "price": 1500,
+        "discount": 30,
+        "quantity": 1,
+        "category": "Журналы"
+      },
+      {
+        "sku": "MAG-BUSINESS-GOALS3-131",
+        "row": 64,
+        "sources": [
+          131
+        ],
+        "price": 15000,
+        "discount": 30,
+        "quantity": 1,
+        "category": "Книги"
+      }
+    ]
+  }
 }
