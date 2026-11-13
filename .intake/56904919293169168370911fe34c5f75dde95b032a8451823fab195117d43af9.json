@@ -333,9 +333,9 @@
       "https://raw.githubusercontent.com/skontakt/wb-images/2ff51c49f7dbec15ae5ac4faccb3a0ec643fc335/images/BUK-FINGAR-DOT-CLOUD-4.jpg",
       "https://raw.githubusercontent.com/skontakt/wb-images/2ff51c49f7dbec15ae5ac4faccb3a0ec643fc335/images/BUK-GIANT-MANUAL-1.jpg",
       "https://raw.githubusercontent.com/skontakt/wb-images/2ff51c49f7dbec15ae5ac4faccb3a0ec643fc335/images/BUK-GIANT-MANUAL-2.jpg",
-      "https://raw.githubusercontent.com/skontakt/wb-images/2ff51c49f7dbec15ae5ac4faccb3a0ec643fc335/images/BUK-GLUKHOVSKY-TEXT-1.jpg",
-      "https://raw.githubusercontent.com/skontakt/wb-images/2ff51c49f7dbec15ae5ac4faccb3a0ec643fc335/images/BUK-GLUKHOVSKY-TEXT-2.jpg",
-      "https://raw.githubusercontent.com/skontakt/wb-images/2ff51c49f7dbec15ae5ac4faccb3a0ec643fc335/images/BUK-GLUKHOVSKY-TEXT-3.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/df47451cd603f48f16510e37980106bbd929d8ec/images/BOOK-GLUKHOVSKY-TEXT-1.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/df47451cd603f48f16510e37980106bbd929d8ec/images/BOOK-GLUKHOVSKY-TEXT-2.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/df47451cd603f48f16510e37980106bbd929d8ec/images/BOOK-GLUKHOVSKY-TEXT-3.jpg",
       "https://raw.githubusercontent.com/skontakt/wb-images/2ff51c49f7dbec15ae5ac4faccb3a0ec643fc335/images/BUK-LEDERMAN-INVOLVE-1.jpg",
       "https://raw.githubusercontent.com/skontakt/wb-images/2ff51c49f7dbec15ae5ac4faccb3a0ec643fc335/images/BUK-LEDERMAN-INVOLVE-2.jpg",
       "https://raw.githubusercontent.com/skontakt/wb-images/2ff51c49f7dbec15ae5ac4faccb3a0ec643fc335/images/BUK-LEDERMAN-INVOLVE-3.jpg",
@@ -403,7 +403,7 @@
         ]
       },
       {
-        "sku": "BUK-GLUKHOVSKY-TEXT",
+        "sku": "BOOK-GLUKHOVSKY-TEXT",
         "row": 18,
         "source_numbers": [
           33,
