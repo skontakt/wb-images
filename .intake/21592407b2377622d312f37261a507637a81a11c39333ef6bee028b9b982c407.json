@@ -139,7 +139,7 @@
   "result": {
     "sku": "BATCH-MAG-100-131",
     "photos": [
-      "https://raw.githubusercontent.com/skontakt/wb-images/7f7449b3c2323f37b4fedb164ebe36d965349340/images/MAG-BUSINESS-GOALS3-131-1.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/7bd59355140cea963da99cd70a842a7ad147e0b9/images/BOOK-BUSINESS-GOALS3-131-1.jpg",
       "https://raw.githubusercontent.com/skontakt/wb-images/7f7449b3c2323f37b4fedb164ebe36d965349340/images/MAG-DILETANT-100-1.jpg",
       "https://raw.githubusercontent.com/skontakt/wb-images/7f7449b3c2323f37b4fedb164ebe36d965349340/images/MAG-FOMA-126-1.jpg",
       "https://raw.githubusercontent.com/skontakt/wb-images/7f7449b3c2323f37b4fedb164ebe36d965349340/images/MAG-HBR-104-1.jpg",
@@ -486,7 +486,7 @@
         "category": "Журналы"
       },
       {
-        "sku": "MAG-BUSINESS-GOALS3-131",
+        "sku": "BOOK-BUSINESS-GOALS3-131",
         "row": 64,
         "sources": [
           131
