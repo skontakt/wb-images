@@ -27,7 +27,7 @@
       "sha": "90d5ca4762ca1361a4c0c868ec2e472600576f52"
     }
   ],
-  "status": "awaiting_details",
+  "status": "processed",
   "discovered_at": "2026-11-13T09:33:18.428938+00:00",
   "questions": [
     "Категория WB?",
@@ -36,5 +36,19 @@
     "Менять ли стандартный промпт обработки фото? Если да, как?"
   ],
   "parent_job": "5364c24932dd1594a6aa50c1f60679df063e21f5efff793c19a1b2947eaa8e5d",
-  "selection": "User explicitly selected images 20–25 as one new product"
+  "selection": "User explicitly selected images 20–25 as one new product",
+  "processed_at": "2026-11-13T09:38:05.583593+00:00",
+  "cleanup_policy": "manual",
+  "result": {
+    "sku": "BUK-ABSOLUT-ART-9163099179",
+    "photos": [
+      "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BUK-ABSOLUT-ART-9163099179-1.jpg?v=a84dbe4cf801019c8f403b21d55ed7b59c5a8432",
+      "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BUK-ABSOLUT-ART-9163099179-2.jpg?v=567f7d1852ae1951422f24c0fab7e9c30ae76baf",
+      "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BUK-ABSOLUT-ART-9163099179-3.jpg?v=cbe7e3545bb670d9cbe943449c76b11dd76fb643",
+      "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BUK-ABSOLUT-ART-9163099179-4.jpg?v=0ef7110a5cbf747ff615d1358ad2c210df88b6e3",
+      "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BUK-ABSOLUT-ART-9163099179-5.jpg?v=59d599c0527f1e378d8aa8545678a4cf811b189d",
+      "https://raw.githubusercontent.com/skontakt/wb-images/main/images/BUK-ABSOLUT-ART-9163099179-6.jpg?v=d240961afc9f7d2cca87afbb36c4007fe0b09eb8"
+    ],
+    "row_url": "https://docs.google.com/spreadsheets/d/1v4-xR4Wv9K7mI9legyHTEiqYcGScewR5UTwJWiBEVwg/edit#gid=985879740&range=A15:AN15"
+  }
 }
