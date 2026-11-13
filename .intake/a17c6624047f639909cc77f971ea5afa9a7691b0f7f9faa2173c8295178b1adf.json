@@ -1,0 +1,40 @@
+{
+  "id": "a17c6624047f639909cc77f971ea5afa9a7691b0f7f9faa2173c8295178b1adf",
+  "group": "book-20-25",
+  "files": [
+    {
+      "path": "new/book-20.jpg",
+      "sha": "924e96283259a3f7331b609080a63be8f1530b54"
+    },
+    {
+      "path": "new/book-21.jpg",
+      "sha": "5bf3110b5e5447a03b5976d5ec934ede8621a96c"
+    },
+    {
+      "path": "new/book-22.jpg",
+      "sha": "6ea9b23b142dedcb2f6c4ab640e17bfd5c52feb9"
+    },
+    {
+      "path": "new/book-23.jpg",
+      "sha": "534eb3b6e7f54ea27b16c371aaffd944d250c9b5"
+    },
+    {
+      "path": "new/book-24.jpg",
+      "sha": "33a7b4429ab173670e79b9088aa4f3dba997262f"
+    },
+    {
+      "path": "new/book-25.jpg",
+      "sha": "90d5ca4762ca1361a4c0c868ec2e472600576f52"
+    }
+  ],
+  "status": "awaiting_details",
+  "discovered_at": "2026-11-13T09:33:18.428938+00:00",
+  "questions": [
+    "Категория WB?",
+    "Цена?",
+    "Количество?",
+    "Менять ли стандартный промпт обработки фото? Если да, как?"
+  ],
+  "parent_job": "5364c24932dd1594a6aa50c1f60679df063e21f5efff793c19a1b2947eaa8e5d",
+  "selection": "User explicitly selected images 20–25 as one new product"
+}
