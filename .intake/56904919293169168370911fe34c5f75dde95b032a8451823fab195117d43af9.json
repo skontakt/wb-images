@@ -299,7 +299,7 @@
       "sha": "e73eb006ad6fba376faa822048765059a1be2841"
     }
   ],
-  "status": "awaiting_details",
+  "status": "processed",
   "discovered_at": "2026-11-13T10:20:53.741924+00:00",
   "questions": [
     "Категория WB?",
@@ -307,5 +307,269 @@
     "Количество?",
     "Менять ли стандартный промпт обработки фото? Если да, как?"
   ],
-  "parent_job": "552fef19f277c166a5eccb609b2c19bf8e859be1f59574f2726f5fa7b284eada"
+  "parent_job": "552fef19f277c166a5eccb609b2c19bf8e859be1f59574f2726f5fa7b284eada",
+  "processed_at": "2026-11-13T10:26:50.634084+00:00",
+  "cleanup_policy": "manual",
+  "result": {
+    "sku": "BATCH-BOOKS-26-99",
+    "photos": [
+      "https://raw.githubusercontent.com/skontakt/wb-images/2ff51c49f7dbec15ae5ac4faccb3a0ec643fc335/images/BUK-BOYASHOV-GUSAR-1.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/2ff51c49f7dbec15ae5ac4faccb3a0ec643fc335/images/BUK-BOYASHOV-GUSAR-2.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/2ff51c49f7dbec15ae5ac4faccb3a0ec643fc335/images/BUK-BOYASHOV-GUSAR-3.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/2ff51c49f7dbec15ae5ac4faccb3a0ec643fc335/images/BUK-BUKOWSKI-POST-1.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/2ff51c49f7dbec15ae5ac4faccb3a0ec643fc335/images/BUK-BUKOWSKI-POST-2.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/2ff51c49f7dbec15ae5ac4faccb3a0ec643fc335/images/BUK-BUKOWSKI-POST-3.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/2ff51c49f7dbec15ae5ac4faccb3a0ec643fc335/images/BUK-COCO-CHANEL-1.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/2ff51c49f7dbec15ae5ac4faccb3a0ec643fc335/images/BUK-COCO-CHANEL-2.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/2ff51c49f7dbec15ae5ac4faccb3a0ec643fc335/images/BUK-COCO-CHANEL-3.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/2ff51c49f7dbec15ae5ac4faccb3a0ec643fc335/images/BUK-DUNE-HERBERT-1.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/2ff51c49f7dbec15ae5ac4faccb3a0ec643fc335/images/BUK-DUNE-HERBERT-2.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/2ff51c49f7dbec15ae5ac4faccb3a0ec643fc335/images/BUK-DUNE-HERBERT-3.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/2ff51c49f7dbec15ae5ac4faccb3a0ec643fc335/images/BUK-DUNE-HERBERT-4.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/2ff51c49f7dbec15ae5ac4faccb3a0ec643fc335/images/BUK-DUNE-HERBERT-5.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/2ff51c49f7dbec15ae5ac4faccb3a0ec643fc335/images/BUK-FINGAR-DOT-CLOUD-1.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/2ff51c49f7dbec15ae5ac4faccb3a0ec643fc335/images/BUK-FINGAR-DOT-CLOUD-2.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/2ff51c49f7dbec15ae5ac4faccb3a0ec643fc335/images/BUK-FINGAR-DOT-CLOUD-3.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/2ff51c49f7dbec15ae5ac4faccb3a0ec643fc335/images/BUK-FINGAR-DOT-CLOUD-4.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/2ff51c49f7dbec15ae5ac4faccb3a0ec643fc335/images/BUK-GIANT-MANUAL-1.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/2ff51c49f7dbec15ae5ac4faccb3a0ec643fc335/images/BUK-GIANT-MANUAL-2.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/2ff51c49f7dbec15ae5ac4faccb3a0ec643fc335/images/BUK-GLUKHOVSKY-TEXT-1.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/2ff51c49f7dbec15ae5ac4faccb3a0ec643fc335/images/BUK-GLUKHOVSKY-TEXT-2.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/2ff51c49f7dbec15ae5ac4faccb3a0ec643fc335/images/BUK-GLUKHOVSKY-TEXT-3.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/2ff51c49f7dbec15ae5ac4faccb3a0ec643fc335/images/BUK-LEDERMAN-INVOLVE-1.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/2ff51c49f7dbec15ae5ac4faccb3a0ec643fc335/images/BUK-LEDERMAN-INVOLVE-2.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/2ff51c49f7dbec15ae5ac4faccb3a0ec643fc335/images/BUK-LEDERMAN-INVOLVE-3.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/2ff51c49f7dbec15ae5ac4faccb3a0ec643fc335/images/BUK-MOGI-IKIGAI-1.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/2ff51c49f7dbec15ae5ac4faccb3a0ec643fc335/images/BUK-MOGI-IKIGAI-2.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/2ff51c49f7dbec15ae5ac4faccb3a0ec643fc335/images/BUK-MOGI-IKIGAI-3.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/2ff51c49f7dbec15ae5ac4faccb3a0ec643fc335/images/BUK-MOLTZ-RESTART-1.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/2ff51c49f7dbec15ae5ac4faccb3a0ec643fc335/images/BUK-MOLTZ-RESTART-2.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/2ff51c49f7dbec15ae5ac4faccb3a0ec643fc335/images/BUK-MOLTZ-RESTART-3.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/2ff51c49f7dbec15ae5ac4faccb3a0ec643fc335/images/BUK-MONRO-DIANA-1.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/2ff51c49f7dbec15ae5ac4faccb3a0ec643fc335/images/BUK-MONRO-DIANA-2.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/2ff51c49f7dbec15ae5ac4faccb3a0ec643fc335/images/BUK-MONRO-DIANA-3.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/2ff51c49f7dbec15ae5ac4faccb3a0ec643fc335/images/BUK-OCHIROV-SON-1.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/2ff51c49f7dbec15ae5ac4faccb3a0ec643fc335/images/BUK-OCHIROV-SON-2.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/2ff51c49f7dbec15ae5ac4faccb3a0ec643fc335/images/BUK-OCHIROV-SON-3.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/2ff51c49f7dbec15ae5ac4faccb3a0ec643fc335/images/BUK-PELEVIN-ELEVSIN-1.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/2ff51c49f7dbec15ae5ac4faccb3a0ec643fc335/images/BUK-PELEVIN-ELEVSIN-2.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/2ff51c49f7dbec15ae5ac4faccb3a0ec643fc335/images/BUK-PELEVIN-ELEVSIN-3.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/2ff51c49f7dbec15ae5ac4faccb3a0ec643fc335/images/BUK-PRILEPIN-BOTINKI-1.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/2ff51c49f7dbec15ae5ac4faccb3a0ec643fc335/images/BUK-PRILEPIN-BOTINKI-2.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/2ff51c49f7dbec15ae5ac4faccb3a0ec643fc335/images/BUK-PRILEPIN-BOTINKI-3.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/2ff51c49f7dbec15ae5ac4faccb3a0ec643fc335/images/BUK-RADOV-OVIDIY-1.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/2ff51c49f7dbec15ae5ac4faccb3a0ec643fc335/images/BUK-RADOV-OVIDIY-2.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/2ff51c49f7dbec15ae5ac4faccb3a0ec643fc335/images/BUK-RADOV-OVIDIY-3.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/2ff51c49f7dbec15ae5ac4faccb3a0ec643fc335/images/BUK-RADZINSKY-KOBA-SET3-1.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/2ff51c49f7dbec15ae5ac4faccb3a0ec643fc335/images/BUK-RADZINSKY-KOBA-SET3-2.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/2ff51c49f7dbec15ae5ac4faccb3a0ec643fc335/images/BUK-RADZINSKY-KOBA-SET3-3.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/2ff51c49f7dbec15ae5ac4faccb3a0ec643fc335/images/BUK-RADZINSKY-KOBA-SET3-4.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/2ff51c49f7dbec15ae5ac4faccb3a0ec643fc335/images/BUK-RADZINSKY-KOBA-SET3-5.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/2ff51c49f7dbec15ae5ac4faccb3a0ec643fc335/images/BUK-RADZINSKY-KOBA-SET3-6.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/2ff51c49f7dbec15ae5ac4faccb3a0ec643fc335/images/BUK-RADZINSKY-KOBA-SET3-7.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/2ff51c49f7dbec15ae5ac4faccb3a0ec643fc335/images/BUK-RADZINSKY-KOBA-SET3-8.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/2ff51c49f7dbec15ae5ac4faccb3a0ec643fc335/images/BUK-ROSEN-MATH-1.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/2ff51c49f7dbec15ae5ac4faccb3a0ec643fc335/images/BUK-ROSEN-MATH-2.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/2ff51c49f7dbec15ae5ac4faccb3a0ec643fc335/images/BUK-ROSEN-MATH-3.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/2ff51c49f7dbec15ae5ac4faccb3a0ec643fc335/images/BUK-SHOIGU-PRO-VCHERA-1.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/2ff51c49f7dbec15ae5ac4faccb3a0ec643fc335/images/BUK-SHOIGU-PRO-VCHERA-2.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/2ff51c49f7dbec15ae5ac4faccb3a0ec643fc335/images/BUK-SHOIGU-PRO-VCHERA-3.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/2ff51c49f7dbec15ae5ac4faccb3a0ec643fc335/images/BUK-TARANTINO-CINEMA-1.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/2ff51c49f7dbec15ae5ac4faccb3a0ec643fc335/images/BUK-TARANTINO-CINEMA-2.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/2ff51c49f7dbec15ae5ac4faccb3a0ec643fc335/images/BUK-TARANTINO-CINEMA-3.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/2ff51c49f7dbec15ae5ac4faccb3a0ec643fc335/images/BUK-VODOLAZKIN-AVIATOR-1.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/2ff51c49f7dbec15ae5ac4faccb3a0ec643fc335/images/BUK-VODOLAZKIN-AVIATOR-2.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/2ff51c49f7dbec15ae5ac4faccb3a0ec643fc335/images/BUK-VODOLAZKIN-AVIATOR-3.jpg"
+    ],
+    "row_url": "https://docs.google.com/spreadsheets/d/1v4-xR4Wv9K7mI9legyHTEiqYcGScewR5UTwJWiBEVwg/edit#gid=985879740&range=A16:AN35",
+    "products": [
+      {
+        "sku": "BUK-DUNE-HERBERT",
+        "row": 16,
+        "source_numbers": [
+          26,
+          27,
+          28,
+          29,
+          30
+        ]
+      },
+      {
+        "sku": "BUK-GIANT-MANUAL",
+        "row": 17,
+        "source_numbers": [
+          31,
+          32
+        ]
+      },
+      {
+        "sku": "BUK-GLUKHOVSKY-TEXT",
+        "row": 18,
+        "source_numbers": [
+          33,
+          34,
+          35
+        ]
+      },
+      {
+        "sku": "BUK-SHOIGU-PRO-VCHERA",
+        "row": 19,
+        "source_numbers": [
+          36,
+          37,
+          38
+        ]
+      },
+      {
+        "sku": "BUK-TARANTINO-CINEMA",
+        "row": 20,
+        "source_numbers": [
+          39,
+          40,
+          41
+        ]
+      },
+      {
+        "sku": "BUK-PELEVIN-ELEVSIN",
+        "row": 21,
+        "source_numbers": [
+          42,
+          43,
+          44
+        ]
+      },
+      {
+        "sku": "BUK-RADZINSKY-KOBA-SET3",
+        "row": 22,
+        "source_numbers": [
+          45,
+          46,
+          47,
+          48,
+          49,
+          50,
+          51,
+          52
+        ]
+      },
+      {
+        "sku": "BUK-COCO-CHANEL",
+        "row": 23,
+        "source_numbers": [
+          53,
+          54,
+          55
+        ]
+      },
+      {
+        "sku": "BUK-MONRO-DIANA",
+        "row": 24,
+        "source_numbers": [
+          56,
+          57,
+          58
+        ]
+      },
+      {
+        "sku": "BUK-ROSEN-MATH",
+        "row": 25,
+        "source_numbers": [
+          59,
+          60,
+          61
+        ]
+      },
+      {
+        "sku": "BUK-OCHIROV-SON",
+        "row": 26,
+        "source_numbers": [
+          62,
+          63,
+          64
+        ]
+      },
+      {
+        "sku": "BUK-PRILEPIN-BOTINKI",
+        "row": 27,
+        "source_numbers": [
+          65,
+          66,
+          67
+        ]
+      },
+      {
+        "sku": "BUK-LEDERMAN-INVOLVE",
+        "row": 28,
+        "source_numbers": [
+          68,
+          70,
+          72
+        ]
+      },
+      {
+        "sku": "BUK-FINGAR-DOT-CLOUD",
+        "row": 29,
+        "source_numbers": [
+          74,
+          76,
+          78,
+          80
+        ]
+      },
+      {
+        "sku": "BUK-VODOLAZKIN-AVIATOR",
+        "row": 30,
+        "source_numbers": [
+          82,
+          83,
+          84
+        ]
+      },
+      {
+        "sku": "BUK-BUKOWSKI-POST",
+        "row": 31,
+        "source_numbers": [
+          85,
+          86,
+          87
+        ]
+      },
+      {
+        "sku": "BUK-MOGI-IKIGAI",
+        "row": 32,
+        "source_numbers": [
+          88,
+          89,
+          90
+        ]
+      },
+      {
+        "sku": "BUK-MOLTZ-RESTART",
+        "row": 33,
+        "source_numbers": [
+          91,
+          92,
+          93
+        ]
+      },
+      {
+        "sku": "BUK-RADOV-OVIDIY",
+        "row": 34,
+        "source_numbers": [
+          94,
+          95,
+          96
+        ]
+      },
+      {
+        "sku": "BUK-BOYASHOV-GUSAR",
+        "row": 35,
+        "source_numbers": [
+          97,
+          98,
+          99
+        ]
+      }
+    ]
+  }
 }
