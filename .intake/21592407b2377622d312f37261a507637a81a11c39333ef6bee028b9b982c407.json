@@ -1,0 +1,137 @@
+{
+  "files": [
+    {
+      "path": "new/MAG-100.jpg",
+      "sha": "79e5f74e5503bd6a3a81c8337b4694674e0d735f"
+    },
+    {
+      "path": "new/MAG-101.jpg",
+      "sha": "84b0d78ca1a052f1ed57a0ff2ee5adb5735407cb"
+    },
+    {
+      "path": "new/MAG-102.jpg",
+      "sha": "8a41a282a1e6e200566d87d73a6e57f21111e1db"
+    },
+    {
+      "path": "new/MAG-103.jpg",
+      "sha": "2001c696614e41bead187e3e14195242b2d25b31"
+    },
+    {
+      "path": "new/MAG-104.jpg",
+      "sha": "4b3dc6e9efce493bf5dbed0b0f5ebd09dc04b786"
+    },
+    {
+      "path": "new/MAG-105.jpg",
+      "sha": "b0424869b3f03c37c86e96adf6232b8382cebb11"
+    },
+    {
+      "path": "new/MAG-106.jpg",
+      "sha": "8022d9007b72da536c00fc73654149601b6aaf7f"
+    },
+    {
+      "path": "new/MAG-107.jpg",
+      "sha": "26a79d86ca3d946f438e0b3296a86d4d21b57709"
+    },
+    {
+      "path": "new/MAG-108.jpg",
+      "sha": "99469ad7a331025903099d448e11bca0a1135326"
+    },
+    {
+      "path": "new/MAG-109.jpg",
+      "sha": "737810a4df902d332bde253090620a51ccab09f0"
+    },
+    {
+      "path": "new/MAG-110.jpg",
+      "sha": "c894dc526741cf49513888168091e2f083835ffe"
+    },
+    {
+      "path": "new/MAG-111.jpg",
+      "sha": "0d449b92c3b9394522c52dcd56aeda387f16bc5b"
+    },
+    {
+      "path": "new/MAG-112.jpg",
+      "sha": "fb4af25b45b644b4d68731d20e94d1fa557f7667"
+    },
+    {
+      "path": "new/MAG-113.jpg",
+      "sha": "9341b9cfb523810b7d27e8218f467e7c0bffc996"
+    },
+    {
+      "path": "new/MAG-114.jpg",
+      "sha": "070e8904e255668abae47060594a0c58eb020ba6"
+    },
+    {
+      "path": "new/MAG-115.jpg",
+      "sha": "7c5ec11073d51d094411e077992a07d8ee0ca6d6"
+    },
+    {
+      "path": "new/MAG-116.jpg",
+      "sha": "1a075d266fa546b2b6f7b6d329893efcb9712614"
+    },
+    {
+      "path": "new/MAG-117.jpg",
+      "sha": "90d878f0c152cdc16953f7866b00d02f93ccd53a"
+    },
+    {
+      "path": "new/MAG-118.jpg",
+      "sha": "d297350e9f662d7e5730f34f24d13525fb3a0fdd"
+    },
+    {
+      "path": "new/MAG-119.jpg",
+      "sha": "0eefbbef247e380434ba54e4d9c8eb397fb9a600"
+    },
+    {
+      "path": "new/MAG-120.jpg",
+      "sha": "c138dbd7d42d323caa71975d56b411b6260f69c3"
+    },
+    {
+      "path": "new/MAG-121.jpg",
+      "sha": "d8a530926b9adb5d688a2bbc585ffd4555531cca"
+    },
+    {
+      "path": "new/MAG-122.jpg",
+      "sha": "f02b011aa52e43d9b0ef1bebb0915878d2e2d542"
+    },
+    {
+      "path": "new/MAG-123.jpg",
+      "sha": "57e838352c17a3926732b4138ec4404ebc249160"
+    },
+    {
+      "path": "new/MAG-124.jpg",
+      "sha": "b0bc9af656425283a71f020694c9765ca664e1ef"
+    },
+    {
+      "path": "new/MAG-125.jpg",
+      "sha": "47dfefdbeb8b3e973c327c3bb9b87c102538bc20"
+    },
+    {
+      "path": "new/MAG-126.jpg",
+      "sha": "3c634d60d6cd81ed28af1fe583d04a8415621f12"
+    },
+    {
+      "path": "new/MAG-127.jpg",
+      "sha": "84cf7ec3d587fa9cfdaa8bce1442428e4bad7071"
+    },
+    {
+      "path": "new/MAG-128.jpg",
+      "sha": "21f7789a5164dfd4ea4a4847823e440a1e9ff6d5"
+    },
+    {
+      "path": "new/MAG-129.jpg",
+      "sha": "ad0ca184d6300894152ce14df72d7c0b81b064a6"
+    },
+    {
+      "path": "new/MAG-130.jpg",
+      "sha": "3a252573b8a30bef14b3563469b80c12238f6e9a"
+    },
+    {
+      "path": "new/MAG-131.jpg",
+      "sha": "775e29248d77b39e0d74c8701c7d0783f3a196cd"
+    }
+  ],
+  "status": "awaiting_details",
+  "id": "21592407b2377622d312f37261a507637a81a11c39333ef6bee028b9b982c407",
+  "discovered_at": "2026-11-13T13:27:42.932207+00:00",
+  "group": "user-selected-100-131",
+  "parent_job": "manual-selected-magazines"
+}
