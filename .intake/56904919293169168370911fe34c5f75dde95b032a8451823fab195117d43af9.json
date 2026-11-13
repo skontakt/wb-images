@@ -1,0 +1,643 @@
+{
+  "id": "56904919293169168370911fe34c5f75dde95b032a8451823fab195117d43af9",
+  "group": "user-selected-26-99",
+  "files": [
+    {
+      "path": "new/book-26.jpg",
+      "sha": "a6bd9a7aae4622e509a33d291f006e58bad2e99f"
+    },
+    {
+      "path": "new/book-27.jpg",
+      "sha": "f2edb24705446b7e142d18eebf9902f279ec112d"
+    },
+    {
+      "path": "new/book-28.jpg",
+      "sha": "a2be6d6f77e56bf22aec9c3fce02e84d24517ddb"
+    },
+    {
+      "path": "new/book-29.jpg",
+      "sha": "723c517d4255f116d1e1c91ebc837dc869c4083f"
+    },
+    {
+      "path": "new/book-30.jpg",
+      "sha": "a6a38c1f46e736a91050d951ca7ebc0d3a480cb6"
+    },
+    {
+      "path": "new/book-31.jpg",
+      "sha": "d29fcc909a9a7129de32ed7bcd78850843c806ff"
+    },
+    {
+      "path": "new/book-32.jpg",
+      "sha": "d4056341b34be28cedd2572424a9e40bc2925c7b"
+    },
+    {
+      "path": "new/book-33.jpg",
+      "sha": "b7a8d9f06c00552760a37b02cf441ed658e90e96"
+    },
+    {
+      "path": "new/book-34.jpg",
+      "sha": "6821fd751cb6e4fa756f2a00e4f0fac16107df0e"
+    },
+    {
+      "path": "new/book-35.jpg",
+      "sha": "4b70b90cacb955b2ab4929f55013b70b64d2e498"
+    },
+    {
+      "path": "new/book-36.jpg",
+      "sha": "c65d011297e395cb30146496eb70e6487eae77b2"
+    },
+    {
+      "path": "new/book-37.jpg",
+      "sha": "06328dec26690aeb8c01bf8b741f4a1270a15f6b"
+    },
+    {
+      "path": "new/book-38.jpg",
+      "sha": "48b3cce3bd287bf61ccc281a8c0df9d991b5e267"
+    },
+    {
+      "path": "new/book-39.jpg",
+      "sha": "962a2b66aa9258d21b48ed205090fd0e6ca605b6"
+    },
+    {
+      "path": "new/book-40.jpg",
+      "sha": "5fa56ea9ccd05553fde211d156c690ae83a3982c"
+    },
+    {
+      "path": "new/book-41.jpg",
+      "sha": "eb1407fec7493249c769a6292fdfe816e5d3f4d8"
+    },
+    {
+      "path": "new/book-42.jpg",
+      "sha": "d28f0b02d1d4c51592f89e00d42766e12f254698"
+    },
+    {
+      "path": "new/book-43.jpg",
+      "sha": "56dd13d568754e932855002adaeda79681ec08d5"
+    },
+    {
+      "path": "new/book-44.jpg",
+      "sha": "f4c9e2e9851e75788485c562c5a5ad22a6eee906"
+    },
+    {
+      "path": "new/book-45.jpg",
+      "sha": "5e4a8be49f31515ff9818a02ea27669f9d9d7e43"
+    },
+    {
+      "path": "new/book-46.jpg",
+      "sha": "75e90a8a21de0aac748540d10f247b3a0f10ea4b"
+    },
+    {
+      "path": "new/book-47.jpg",
+      "sha": "76f1347ce140b59434320a756f7899f4b967bcd9"
+    },
+    {
+      "path": "new/book-48.jpg",
+      "sha": "108d24773b895717e06e0b736f787572b2010ebe"
+    },
+    {
+      "path": "new/book-49.jpg",
+      "sha": "d782b7f958ba62cd2b9a9c596bfffabc880625f8"
+    },
+    {
+      "path": "new/book-50.jpg",
+      "sha": "7a582b92fbe084661c2d6bb2fa327871d83a8f42"
+    },
+    {
+      "path": "new/book-51.jpg",
+      "sha": "55ea810a8aafdedbdf921110cf6841664ef83648"
+    },
+    {
+      "path": "new/book-52.jpg",
+      "sha": "05a888a0f49aff3820f89545599db50cb7bb596b"
+    },
+    {
+      "path": "new/book-53.jpg",
+      "sha": "1c960f27011e0d7c376060f78bb84414c5e6213c"
+    },
+    {
+      "path": "new/book-54.jpg",
+      "sha": "1ab53473b5a8b5bfeb40958603264f0f8b8150e7"
+    },
+    {
+      "path": "new/book-55.jpg",
+      "sha": "c85289844ade7725a60c9e7c621bc269e2b82ef2"
+    },
+    {
+      "path": "new/book-56.jpg",
+      "sha": "0534ab8d59fb26356eaa93e37ea4586a2e7e700d"
+    },
+    {
+      "path": "new/book-57.jpg",
+      "sha": "ac993f944f79abfa0510b08dfec01252521234bd"
+    },
+    {
+      "path": "new/book-58.jpg",
+      "sha": "ede0944e2d6b6e399aaea383e9de8373d663a083"
+    },
+    {
+      "path": "new/book-59.jpg",
+      "sha": "9dc886b858110953d51666c6907821285fe2d6d2"
+    },
+    {
+      "path": "new/book-60.jpg",
+      "sha": "72918a42b0cf9f3f6b901dd21aae8365b59deffa"
+    },
+    {
+      "path": "new/book-61.jpg",
+      "sha": "b723e91635398e0c6c900265a72509c710c87ce9"
+    },
+    {
+      "path": "new/book-62.jpg",
+      "sha": "5f07e7eb081e9e9aa95a9ddac126b0b8c114a064"
+    },
+    {
+      "path": "new/book-63.jpg",
+      "sha": "499534be37ad59d2835f0b1e148d1ea7042c80ee"
+    },
+    {
+      "path": "new/book-64.jpg",
+      "sha": "d9b5d43c426c5c907511d454b4570c878cb9ac79"
+    },
+    {
+      "path": "new/book-65.jpg",
+      "sha": "be034e4435b66610293961800a750ae384356138"
+    },
+    {
+      "path": "new/book-66.jpg",
+      "sha": "51108c4334a9cdf5f0a7dea6c11f27e517039214"
+    },
+    {
+      "path": "new/book-67.jpg",
+      "sha": "7e2a796fd98673978acc41c6c06d2aa94e27860e"
+    },
+    {
+      "path": "new/book-68.jpg",
+      "sha": "051636d57bda869363dce3283c1e677db1b20232"
+    },
+    {
+      "path": "new/book-69.jpg",
+      "sha": "051636d57bda869363dce3283c1e677db1b20232"
+    },
+    {
+      "path": "new/book-70.jpg",
+      "sha": "1b0c90334682edf5e0074bf8df64c9d74f7f9541"
+    },
+    {
+      "path": "new/book-71.jpg",
+      "sha": "1b0c90334682edf5e0074bf8df64c9d74f7f9541"
+    },
+    {
+      "path": "new/book-72.jpg",
+      "sha": "ba5ad642091b32864f88b1c8b75b4de1e99e4d1e"
+    },
+    {
+      "path": "new/book-73.jpg",
+      "sha": "ba5ad642091b32864f88b1c8b75b4de1e99e4d1e"
+    },
+    {
+      "path": "new/book-74.jpg",
+      "sha": "63056ee502088ef647823d284d350cb4993547f0"
+    },
+    {
+      "path": "new/book-75.jpg",
+      "sha": "63056ee502088ef647823d284d350cb4993547f0"
+    },
+    {
+      "path": "new/book-76.jpg",
+      "sha": "e81fea9633114d5622dbc54e26e1df3f65febd1d"
+    },
+    {
+      "path": "new/book-77.jpg",
+      "sha": "e81fea9633114d5622dbc54e26e1df3f65febd1d"
+    },
+    {
+      "path": "new/book-78.jpg",
+      "sha": "f2420914590ec2600901cc7e9fcd87bca69eb0b7"
+    },
+    {
+      "path": "new/book-79.jpg",
+      "sha": "f2420914590ec2600901cc7e9fcd87bca69eb0b7"
+    },
+    {
+      "path": "new/book-80.jpg",
+      "sha": "95eeed02b618764ac4a75e07093708d3e9cb151d"
+    },
+    {
+      "path": "new/book-81.jpg",
+      "sha": "95eeed02b618764ac4a75e07093708d3e9cb151d"
+    },
+    {
+      "path": "new/book-82.jpg",
+      "sha": "90e4e0c80ab6ec193594b357e881d36a1f065411"
+    },
+    {
+      "path": "new/book-83.jpg",
+      "sha": "640c4c03ff3742c52928a050fd3eb21d0d2b0392"
+    },
+    {
+      "path": "new/book-84.jpg",
+      "sha": "26f323091d325d53f0c31278d27c44fc7a1417ec"
+    },
+    {
+      "path": "new/book-85.jpg",
+      "sha": "ad92dee51fad7f4171932f870921f9d7d5934c84"
+    },
+    {
+      "path": "new/book-86.jpg",
+      "sha": "a02623546aa73d8527622e0bce57b71b7ab34cb2"
+    },
+    {
+      "path": "new/book-87.jpg",
+      "sha": "9efc4d419f2e9263fd174d35c09879cf433b7ce3"
+    },
+    {
+      "path": "new/book-88.jpg",
+      "sha": "d2532868ebceb7db7ab6f6e49b795012b4d404eb"
+    },
+    {
+      "path": "new/book-89.jpg",
+      "sha": "71cc04866b5c14624791926321ffbb551a993cd3"
+    },
+    {
+      "path": "new/book-90.jpg",
+      "sha": "8bf3155909df58ecb7b0cbcdc9d1b8b9ce3905d1"
+    },
+    {
+      "path": "new/book-91.jpg",
+      "sha": "9d20e021e13a0a51b821652e12168699ea67909b"
+    },
+    {
+      "path": "new/book-92.jpg",
+      "sha": "b4b77fc753f1a0d3f811b92e0d35432dd7b61f67"
+    },
+    {
+      "path": "new/book-93.jpg",
+      "sha": "d2234b684bc58a0c7be5e4ab51c6bf89e8603b46"
+    },
+    {
+      "path": "new/book-94.jpg",
+      "sha": "92295b09fb217945e117254bfa8bc6d32afef87e"
+    },
+    {
+      "path": "new/book-95.jpg",
+      "sha": "d876a4e36d24546b6ac9c1e8b60d77071ccd3f83"
+    },
+    {
+      "path": "new/book-96.jpg",
+      "sha": "80c9c2529a957511d5ac85792cbf94982ac2fdaf"
+    },
+    {
+      "path": "new/book-97.jpg",
+      "sha": "27a64f6c98306e11a1c817b54316f16be5acf1d6"
+    },
+    {
+      "path": "new/book-98.jpg",
+      "sha": "7bf5515c4154c10ee6e760c14ec88ce6f4de2e26"
+    },
+    {
+      "path": "new/book-99.jpg",
+      "sha": "e73eb006ad6fba376faa822048765059a1be2841"
+    }
+  ],
+  "status": "processed",
+  "discovered_at": "2026-11-13T10:20:53.741924+00:00",
+  "questions": [
+    "Категория WB?",
+    "Цена?",
+    "Количество?",
+    "Менять ли стандартный промпт обработки фото? Если да, как?"
+  ],
+  "parent_job": "552fef19f277c166a5eccb609b2c19bf8e859be1f59574f2726f5fa7b284eada",
+  "processed_at": "2026-11-13T10:26:50.634084+00:00",
+  "cleanup_policy": "manual",
+  "result": {
+    "sku": "BATCH-BOOKS-26-99",
+    "photos": [
+      "https://raw.githubusercontent.com/skontakt/wb-images/400ddda19aea985d10c57646dd8ec45fd6478ca2/images/BOOK-BOYASHOV-GUSAR-1.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/400ddda19aea985d10c57646dd8ec45fd6478ca2/images/BOOK-BOYASHOV-GUSAR-2.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/400ddda19aea985d10c57646dd8ec45fd6478ca2/images/BOOK-BOYASHOV-GUSAR-3.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/2ff51c49f7dbec15ae5ac4faccb3a0ec643fc335/images/BUK-BUKOWSKI-POST-1.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/2ff51c49f7dbec15ae5ac4faccb3a0ec643fc335/images/BUK-BUKOWSKI-POST-2.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/2ff51c49f7dbec15ae5ac4faccb3a0ec643fc335/images/BUK-BUKOWSKI-POST-3.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/400ddda19aea985d10c57646dd8ec45fd6478ca2/images/BOOK-COCO-CHANEL-1.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/400ddda19aea985d10c57646dd8ec45fd6478ca2/images/BOOK-COCO-CHANEL-2.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/400ddda19aea985d10c57646dd8ec45fd6478ca2/images/BOOK-COCO-CHANEL-3.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/2ff51c49f7dbec15ae5ac4faccb3a0ec643fc335/images/BUK-DUNE-HERBERT-1.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/2ff51c49f7dbec15ae5ac4faccb3a0ec643fc335/images/BUK-DUNE-HERBERT-2.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/2ff51c49f7dbec15ae5ac4faccb3a0ec643fc335/images/BUK-DUNE-HERBERT-3.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/2ff51c49f7dbec15ae5ac4faccb3a0ec643fc335/images/BUK-DUNE-HERBERT-4.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/2ff51c49f7dbec15ae5ac4faccb3a0ec643fc335/images/BUK-DUNE-HERBERT-5.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/2ff51c49f7dbec15ae5ac4faccb3a0ec643fc335/images/BUK-FINGAR-DOT-CLOUD-1.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/2ff51c49f7dbec15ae5ac4faccb3a0ec643fc335/images/BUK-FINGAR-DOT-CLOUD-2.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/2ff51c49f7dbec15ae5ac4faccb3a0ec643fc335/images/BUK-FINGAR-DOT-CLOUD-3.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/2ff51c49f7dbec15ae5ac4faccb3a0ec643fc335/images/BUK-FINGAR-DOT-CLOUD-4.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/2ff51c49f7dbec15ae5ac4faccb3a0ec643fc335/images/BUK-GIANT-MANUAL-1.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/2ff51c49f7dbec15ae5ac4faccb3a0ec643fc335/images/BUK-GIANT-MANUAL-2.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/df47451cd603f48f16510e37980106bbd929d8ec/images/BOOK-GLUKHOVSKY-TEXT-1.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/df47451cd603f48f16510e37980106bbd929d8ec/images/BOOK-GLUKHOVSKY-TEXT-2.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/df47451cd603f48f16510e37980106bbd929d8ec/images/BOOK-GLUKHOVSKY-TEXT-3.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/2ff51c49f7dbec15ae5ac4faccb3a0ec643fc335/images/BUK-LEDERMAN-INVOLVE-1.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/2ff51c49f7dbec15ae5ac4faccb3a0ec643fc335/images/BUK-LEDERMAN-INVOLVE-2.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/2ff51c49f7dbec15ae5ac4faccb3a0ec643fc335/images/BUK-LEDERMAN-INVOLVE-3.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/400ddda19aea985d10c57646dd8ec45fd6478ca2/images/BOOK-MOGI-IKIGAI-1.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/400ddda19aea985d10c57646dd8ec45fd6478ca2/images/BOOK-MOGI-IKIGAI-2.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/400ddda19aea985d10c57646dd8ec45fd6478ca2/images/BOOK-MOGI-IKIGAI-3.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/2ff51c49f7dbec15ae5ac4faccb3a0ec643fc335/images/BUK-MOLTZ-RESTART-1.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/2ff51c49f7dbec15ae5ac4faccb3a0ec643fc335/images/BUK-MOLTZ-RESTART-2.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/2ff51c49f7dbec15ae5ac4faccb3a0ec643fc335/images/BUK-MOLTZ-RESTART-3.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/400ddda19aea985d10c57646dd8ec45fd6478ca2/images/BOOK-MONRO-DIANA-1.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/400ddda19aea985d10c57646dd8ec45fd6478ca2/images/BOOK-MONRO-DIANA-2.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/400ddda19aea985d10c57646dd8ec45fd6478ca2/images/BOOK-MONRO-DIANA-3.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/2ff51c49f7dbec15ae5ac4faccb3a0ec643fc335/images/BUK-OCHIROV-SON-1.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/2ff51c49f7dbec15ae5ac4faccb3a0ec643fc335/images/BUK-OCHIROV-SON-2.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/2ff51c49f7dbec15ae5ac4faccb3a0ec643fc335/images/BUK-OCHIROV-SON-3.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/400ddda19aea985d10c57646dd8ec45fd6478ca2/images/BOOK-PELEVIN-ELEVSIN-1.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/400ddda19aea985d10c57646dd8ec45fd6478ca2/images/BOOK-PELEVIN-ELEVSIN-2.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/400ddda19aea985d10c57646dd8ec45fd6478ca2/images/BOOK-PELEVIN-ELEVSIN-3.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/2ff51c49f7dbec15ae5ac4faccb3a0ec643fc335/images/BUK-PRILEPIN-BOTINKI-1.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/2ff51c49f7dbec15ae5ac4faccb3a0ec643fc335/images/BUK-PRILEPIN-BOTINKI-2.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/2ff51c49f7dbec15ae5ac4faccb3a0ec643fc335/images/BUK-PRILEPIN-BOTINKI-3.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/400ddda19aea985d10c57646dd8ec45fd6478ca2/images/BOOK-RADOV-OVIDIY-1.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/400ddda19aea985d10c57646dd8ec45fd6478ca2/images/BOOK-RADOV-OVIDIY-2.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/400ddda19aea985d10c57646dd8ec45fd6478ca2/images/BOOK-RADOV-OVIDIY-3.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/400ddda19aea985d10c57646dd8ec45fd6478ca2/images/BOOK-RADZINSKY-KOBA-SET3-1.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/400ddda19aea985d10c57646dd8ec45fd6478ca2/images/BOOK-RADZINSKY-KOBA-SET3-2.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/400ddda19aea985d10c57646dd8ec45fd6478ca2/images/BOOK-RADZINSKY-KOBA-SET3-3.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/400ddda19aea985d10c57646dd8ec45fd6478ca2/images/BOOK-RADZINSKY-KOBA-SET3-4.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/400ddda19aea985d10c57646dd8ec45fd6478ca2/images/BOOK-RADZINSKY-KOBA-SET3-5.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/400ddda19aea985d10c57646dd8ec45fd6478ca2/images/BOOK-RADZINSKY-KOBA-SET3-6.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/400ddda19aea985d10c57646dd8ec45fd6478ca2/images/BOOK-RADZINSKY-KOBA-SET3-7.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/400ddda19aea985d10c57646dd8ec45fd6478ca2/images/BOOK-RADZINSKY-KOBA-SET3-8.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/400ddda19aea985d10c57646dd8ec45fd6478ca2/images/BOOK-ROSEN-MATH-1.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/400ddda19aea985d10c57646dd8ec45fd6478ca2/images/BOOK-ROSEN-MATH-2.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/400ddda19aea985d10c57646dd8ec45fd6478ca2/images/BOOK-ROSEN-MATH-3.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/400ddda19aea985d10c57646dd8ec45fd6478ca2/images/BOOK-SHOIGU-PRO-VCHERA-1.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/400ddda19aea985d10c57646dd8ec45fd6478ca2/images/BOOK-SHOIGU-PRO-VCHERA-2.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/400ddda19aea985d10c57646dd8ec45fd6478ca2/images/BOOK-SHOIGU-PRO-VCHERA-3.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/400ddda19aea985d10c57646dd8ec45fd6478ca2/images/BOOK-TARANTINO-CINEMA-1.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/400ddda19aea985d10c57646dd8ec45fd6478ca2/images/BOOK-TARANTINO-CINEMA-2.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/400ddda19aea985d10c57646dd8ec45fd6478ca2/images/BOOK-TARANTINO-CINEMA-3.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/400ddda19aea985d10c57646dd8ec45fd6478ca2/images/BOOK-VODOLAZKIN-AVIATOR-1.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/400ddda19aea985d10c57646dd8ec45fd6478ca2/images/BOOK-VODOLAZKIN-AVIATOR-2.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/400ddda19aea985d10c57646dd8ec45fd6478ca2/images/BOOK-VODOLAZKIN-AVIATOR-3.jpg"
+    ],
+    "row_url": "https://docs.google.com/spreadsheets/d/1v4-xR4Wv9K7mI9legyHTEiqYcGScewR5UTwJWiBEVwg/edit#gid=985879740&range=A16:AN35",
+    "products": [
+      {
+        "sku": "BUK-DUNE-HERBERT",
+        "row": 16,
+        "source_numbers": [
+          26,
+          27,
+          28,
+          29,
+          30
+        ]
+      },
+      {
+        "sku": "BUK-GIANT-MANUAL",
+        "row": 17,
+        "source_numbers": [
+          31,
+          32
+        ]
+      },
+      {
+        "sku": "BOOK-GLUKHOVSKY-TEXT",
+        "row": 18,
+        "source_numbers": [
+          33,
+          34,
+          35
+        ]
+      },
+      {
+        "sku": "BOOK-SHOIGU-PRO-VCHERA",
+        "row": 19,
+        "source_numbers": [
+          36,
+          37,
+          38
+        ]
+      },
+      {
+        "sku": "BOOK-TARANTINO-CINEMA",
+        "row": 20,
+        "source_numbers": [
+          39,
+          40,
+          41
+        ]
+      },
+      {
+        "sku": "BOOK-PELEVIN-ELEVSIN",
+        "row": 21,
+        "source_numbers": [
+          42,
+          43,
+          44
+        ]
+      },
+      {
+        "sku": "BOOK-RADZINSKY-KOBA-SET3",
+        "row": 22,
+        "source_numbers": [
+          45,
+          46,
+          47,
+          48,
+          49,
+          50,
+          51,
+          52
+        ]
+      },
+      {
+        "sku": "BOOK-COCO-CHANEL",
+        "row": 23,
+        "source_numbers": [
+          53,
+          54,
+          55
+        ]
+      },
+      {
+        "sku": "BOOK-MONRO-DIANA",
+        "row": 24,
+        "source_numbers": [
+          56,
+          57,
+          58
+        ]
+      },
+      {
+        "sku": "BOOK-ROSEN-MATH",
+        "row": 25,
+        "source_numbers": [
+          59,
+          60,
+          61
+        ]
+      },
+      {
+        "sku": "BUK-OCHIROV-SON",
+        "row": 26,
+        "source_numbers": [
+          62,
+          63,
+          64
+        ]
+      },
+      {
+        "sku": "BUK-PRILEPIN-BOTINKI",
+        "row": 27,
+        "source_numbers": [
+          65,
+          66,
+          67
+        ]
+      },
+      {
+        "sku": "BUK-LEDERMAN-INVOLVE",
+        "row": 28,
+        "source_numbers": [
+          68,
+          70,
+          72
+        ]
+      },
+      {
+        "sku": "BUK-FINGAR-DOT-CLOUD",
+        "row": 29,
+        "source_numbers": [
+          74,
+          76,
+          78,
+          80
+        ]
+      },
+      {
+        "sku": "BOOK-VODOLAZKIN-AVIATOR",
+        "row": 30,
+        "source_numbers": [
+          82,
+          83,
+          84
+        ]
+      },
+      {
+        "sku": "BUK-BUKOWSKI-POST",
+        "row": 31,
+        "source_numbers": [
+          85,
+          86,
+          87
+        ]
+      },
+      {
+        "sku": "BOOK-MOGI-IKIGAI",
+        "row": 32,
+        "source_numbers": [
+          88,
+          89,
+          90
+        ]
+      },
+      {
+        "sku": "BUK-MOLTZ-RESTART",
+        "row": 33,
+        "source_numbers": [
+          91,
+          92,
+          93
+        ]
+      },
+      {
+        "sku": "BOOK-RADOV-OVIDIY",
+        "row": 34,
+        "source_numbers": [
+          94,
+          95,
+          96
+        ]
+      },
+      {
+        "sku": "BOOK-BOYASHOV-GUSAR",
+        "row": 35,
+        "source_numbers": [
+          97,
+          98,
+          99
+        ]
+      }
+    ]
+  },
+  "reclassified_products": [
+    {
+      "previous_sku": "BUK-SHOIGU-PRO-VCHERA",
+      "sku": "BOOK-SHOIGU-PRO-VCHERA",
+      "category": "Книги",
+      "row": 19
+    },
+    {
+      "previous_sku": "BUK-TARANTINO-CINEMA",
+      "sku": "BOOK-TARANTINO-CINEMA",
+      "category": "Книги",
+      "row": 20
+    },
+    {
+      "previous_sku": "BUK-PELEVIN-ELEVSIN",
+      "sku": "BOOK-PELEVIN-ELEVSIN",
+      "category": "Книги",
+      "row": 21
+    },
+    {
+      "previous_sku": "BUK-RADZINSKY-KOBA-SET3",
+      "sku": "BOOK-RADZINSKY-KOBA-SET3",
+      "category": "Книги",
+      "row": 22
+    },
+    {
+      "previous_sku": "BUK-COCO-CHANEL",
+      "sku": "BOOK-COCO-CHANEL",
+      "category": "Книги",
+      "row": 23
+    },
+    {
+      "previous_sku": "BUK-MONRO-DIANA",
+      "sku": "BOOK-MONRO-DIANA",
+      "category": "Книги",
+      "row": 24
+    },
+    {
+      "previous_sku": "BUK-ROSEN-MATH",
+      "sku": "BOOK-ROSEN-MATH",
+      "category": "Книги",
+      "row": 25
+    },
+    {
+      "previous_sku": "BUK-VODOLAZKIN-AVIATOR",
+      "sku": "BOOK-VODOLAZKIN-AVIATOR",
+      "category": "Книги",
+      "row": 30
+    },
+    {
+      "previous_sku": "BUK-MOGI-IKIGAI",
+      "sku": "BOOK-MOGI-IKIGAI",
+      "category": "Книги",
+      "row": 32
+    },
+    {
+      "previous_sku": "BUK-RADOV-OVIDIY",
+      "sku": "BOOK-RADOV-OVIDIY",
+      "category": "Книги",
+      "row": 34
+    },
+    {
+      "previous_sku": "BUK-BOYASHOV-GUSAR",
+      "sku": "BOOK-BOYASHOV-GUSAR",
+      "category": "Книги",
+      "row": 35
+    }
+  ]
+}
