@@ -213,9 +213,422 @@
       "sha": "ecbf2d70c6c8cb8aa474da69d5d2bc0569bb08a2"
     }
   ],
-  "status": "awaiting_details",
+  "status": "processed",
   "id": "ab0aec08aad37950163a7b8592d0813ed680982eedfcc4662b572218e5f7cb88",
   "discovered_at": "2026-11-17T11:14:29.523987+00:00",
   "group": "user-selected-books-nov17",
-  "parent_job": "manual-selected-magazines"
+  "parent_job": "manual-selected-magazines",
+  "processed_at": "2026-11-17T11:20:03.054540+00:00",
+  "cleanup_policy": "manual",
+  "result": {
+    "sku": "BATCH-BOOKS-132-184-NOV17",
+    "photos": [
+      "https://raw.githubusercontent.com/skontakt/wb-images/cae196e4a7f6e274e7c4840a6d96e273f49bfe05/images/BOOK-AFANASIY-SERDTSE-136-1.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/cae196e4a7f6e274e7c4840a6d96e273f49bfe05/images/BOOK-AFANASIY-SERDTSE-136-2.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/cae196e4a7f6e274e7c4840a6d96e273f49bfe05/images/BOOK-AKAFIST-SERGIYU-178-1.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/cae196e4a7f6e274e7c4840a6d96e273f49bfe05/images/BOOK-ANDREY-KHRISTOS-140-1.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/cae196e4a7f6e274e7c4840a6d96e273f49bfe05/images/BOOK-ANDREY-KHRISTOS-140-2.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/cae196e4a7f6e274e7c4840a6d96e273f49bfe05/images/BOOK-AZY-VERY-162-1.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/cae196e4a7f6e274e7c4840a6d96e273f49bfe05/images/BOOK-BERESTOV-GREKH-175-1.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/cae196e4a7f6e274e7c4840a6d96e273f49bfe05/images/BOOK-BERESTOV-GREKH-175-2.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/cae196e4a7f6e274e7c4840a6d96e273f49bfe05/images/BOOK-BERESTOV-GREKH-175-3.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/cae196e4a7f6e274e7c4840a6d96e273f49bfe05/images/BOOK-DOMOSTROY-172-1.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/cae196e4a7f6e274e7c4840a6d96e273f49bfe05/images/BOOK-DOMOSTROY-172-2.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/cae196e4a7f6e274e7c4840a6d96e273f49bfe05/images/BOOK-DOMOSTROY-172-3.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/cae196e4a7f6e274e7c4840a6d96e273f49bfe05/images/BOOK-ERMILOV-KLYUCHI-158-1.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/cae196e4a7f6e274e7c4840a6d96e273f49bfe05/images/BOOK-ERMILOV-KLYUCHI-158-2.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/cae196e4a7f6e274e7c4840a6d96e273f49bfe05/images/BOOK-GOGOL-IZ-PISEM-163-1.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/cae196e4a7f6e274e7c4840a6d96e273f49bfe05/images/BOOK-GOGOL-IZ-PISEM-163-2.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/473ea1f24e6128c833800b963a690485739d2dbd/images/BOOK-IGNATIY-SET7-132-1.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/cae196e4a7f6e274e7c4840a6d96e273f49bfe05/images/BOOK-IGNATIY-SET7-132-2.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/cae196e4a7f6e274e7c4840a6d96e273f49bfe05/images/BOOK-IGNATIY-SET7-132-3.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/473ea1f24e6128c833800b963a690485739d2dbd/images/BOOK-IGNATIY-SET7-132-4.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/cae196e4a7f6e274e7c4840a6d96e273f49bfe05/images/BOOK-IGUMEN-N-MEZHDU-160-1.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/cae196e4a7f6e274e7c4840a6d96e273f49bfe05/images/BOOK-IGUMEN-N-MEZHDU-160-2.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/cae196e4a7f6e274e7c4840a6d96e273f49bfe05/images/BOOK-IGUMEN-N-SERDTSE-180-1.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/cae196e4a7f6e274e7c4840a6d96e273f49bfe05/images/BOOK-KATASONOV-OBSCHESTVO-138-1.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/cae196e4a7f6e274e7c4840a6d96e273f49bfe05/images/BOOK-KATASONOV-OBSCHESTVO-138-2.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/cae196e4a7f6e274e7c4840a6d96e273f49bfe05/images/BOOK-KINOPOVESTI-167-1.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/cae196e4a7f6e274e7c4840a6d96e273f49bfe05/images/BOOK-KINOPOVESTI-167-2.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/cae196e4a7f6e274e7c4840a6d96e273f49bfe05/images/BOOK-NIKODIM-BRAN-154-1.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/cae196e4a7f6e274e7c4840a6d96e273f49bfe05/images/BOOK-NIKODIM-BRAN-154-2.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/cae196e4a7f6e274e7c4840a6d96e273f49bfe05/images/BOOK-NIKOLAEVA-APOLOGIYA-165-1.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/cae196e4a7f6e274e7c4840a6d96e273f49bfe05/images/BOOK-NIKOLAEVA-AVGUSTIN-166-1.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/cae196e4a7f6e274e7c4840a6d96e273f49bfe05/images/BOOK-NIKOLAEVA-KORFU-148-1.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/cae196e4a7f6e274e7c4840a6d96e273f49bfe05/images/BOOK-NIKOLAEVA-KORFU-148-2.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/cae196e4a7f6e274e7c4840a6d96e273f49bfe05/images/BOOK-NIKOLAEVA-KUKS-146-1.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/cae196e4a7f6e274e7c4840a6d96e273f49bfe05/images/BOOK-NIKOLAEVA-KUKS-146-2.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/cae196e4a7f6e274e7c4840a6d96e273f49bfe05/images/BOOK-NIKOLAEVA-METSENAT-152-1.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/cae196e4a7f6e274e7c4840a6d96e273f49bfe05/images/BOOK-NIKOLAEVA-METSENAT-152-2.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/cae196e4a7f6e274e7c4840a6d96e273f49bfe05/images/BOOK-NIKOLAEVA-OGON-142-1.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/cae196e4a7f6e274e7c4840a6d96e273f49bfe05/images/BOOK-NIKOLAEVA-OGON-142-2.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/cae196e4a7f6e274e7c4840a6d96e273f49bfe05/images/BOOK-NIKOLAEVA-SEBE-NAZLO-150-1.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/cae196e4a7f6e274e7c4840a6d96e273f49bfe05/images/BOOK-NIKOLAEVA-SEBE-NAZLO-150-2.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/cae196e4a7f6e274e7c4840a6d96e273f49bfe05/images/BOOK-SHTAYNER-SCENARII-183-1.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/cae196e4a7f6e274e7c4840a6d96e273f49bfe05/images/BOOK-SHTAYNER-SCENARII-183-2.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/cae196e4a7f6e274e7c4840a6d96e273f49bfe05/images/BOOK-SMIRENNYM-181-1.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/cae196e4a7f6e274e7c4840a6d96e273f49bfe05/images/BOOK-SMIRENNYM-181-2.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/cae196e4a7f6e274e7c4840a6d96e273f49bfe05/images/BOOK-SVYATYE-MOLITSYA-169-1.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/cae196e4a7f6e274e7c4840a6d96e273f49bfe05/images/BOOK-SVYATYE-MOLITSYA-169-2.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/cae196e4a7f6e274e7c4840a6d96e273f49bfe05/images/BOOK-SVYATYE-MOLITSYA-169-3.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/cae196e4a7f6e274e7c4840a6d96e273f49bfe05/images/BOOK-TOLKOVYY-MOLITVOSLOV-156-1.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/cae196e4a7f6e274e7c4840a6d96e273f49bfe05/images/BOOK-TOLKOVYY-MOLITVOSLOV-156-2.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/cae196e4a7f6e274e7c4840a6d96e273f49bfe05/images/BOOK-VSEGDA-RADUYTES-179-1.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/cae196e4a7f6e274e7c4840a6d96e273f49bfe05/images/BOOK-ZHUKOVA-SUVOROV-144-1.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/cae196e4a7f6e274e7c4840a6d96e273f49bfe05/images/BOOK-ZHUKOVA-SUVOROV-144-2.jpg"
+    ],
+    "row_url": "https://docs.google.com/spreadsheets/d/1v4-xR4Wv9K7mI9legyHTEiqYcGScewR5UTwJWiBEVwg/edit#gid=985879740&range=A65:AN91",
+    "products": [
+      {
+        "sku": "BOOK-IGNATIY-SET7-132",
+        "row": 65,
+        "sources": [
+          135,
+          132,
+          134,
+          133
+        ],
+        "price": 7000,
+        "quantity": 1,
+        "bundle_count": 7,
+        "category": "Книги",
+        "infographic": false
+      },
+      {
+        "sku": "BOOK-AFANASIY-SERDTSE-136",
+        "row": 66,
+        "sources": [
+          136,
+          137
+        ],
+        "price": 500,
+        "quantity": 1,
+        "bundle_count": 1,
+        "category": "Книги",
+        "infographic": false
+      },
+      {
+        "sku": "BOOK-KATASONOV-OBSCHESTVO-138",
+        "row": 67,
+        "sources": [
+          138,
+          139
+        ],
+        "price": 500,
+        "quantity": 1,
+        "bundle_count": 1,
+        "category": "Книги",
+        "infographic": false
+      },
+      {
+        "sku": "BOOK-ANDREY-KHRISTOS-140",
+        "row": 68,
+        "sources": [
+          140,
+          141
+        ],
+        "price": 500,
+        "quantity": 1,
+        "bundle_count": 1,
+        "category": "Книги",
+        "infographic": false
+      },
+      {
+        "sku": "BOOK-NIKOLAEVA-OGON-142",
+        "row": 69,
+        "sources": [
+          142,
+          143
+        ],
+        "price": 500,
+        "quantity": 1,
+        "bundle_count": 1,
+        "category": "Книги",
+        "infographic": false
+      },
+      {
+        "sku": "BOOK-ZHUKOVA-SUVOROV-144",
+        "row": 70,
+        "sources": [
+          144,
+          145
+        ],
+        "price": 500,
+        "quantity": 1,
+        "bundle_count": 1,
+        "category": "Книги",
+        "infographic": false
+      },
+      {
+        "sku": "BOOK-NIKOLAEVA-KUKS-146",
+        "row": 71,
+        "sources": [
+          146,
+          147
+        ],
+        "price": 500,
+        "quantity": 1,
+        "bundle_count": 1,
+        "category": "Книги",
+        "infographic": false
+      },
+      {
+        "sku": "BOOK-NIKOLAEVA-KORFU-148",
+        "row": 72,
+        "sources": [
+          148,
+          149
+        ],
+        "price": 500,
+        "quantity": 1,
+        "bundle_count": 1,
+        "category": "Книги",
+        "infographic": false
+      },
+      {
+        "sku": "BOOK-NIKOLAEVA-SEBE-NAZLO-150",
+        "row": 73,
+        "sources": [
+          150,
+          151
+        ],
+        "price": 500,
+        "quantity": 1,
+        "bundle_count": 1,
+        "category": "Книги",
+        "infographic": false
+      },
+      {
+        "sku": "BOOK-NIKOLAEVA-METSENAT-152",
+        "row": 74,
+        "sources": [
+          152,
+          153
+        ],
+        "price": 500,
+        "quantity": 1,
+        "bundle_count": 1,
+        "category": "Книги",
+        "infographic": false
+      },
+      {
+        "sku": "BOOK-NIKODIM-BRAN-154",
+        "row": 75,
+        "sources": [
+          154,
+          155
+        ],
+        "price": 500,
+        "quantity": 1,
+        "bundle_count": 1,
+        "category": "Книги",
+        "infographic": false
+      },
+      {
+        "sku": "BOOK-TOLKOVYY-MOLITVOSLOV-156",
+        "row": 76,
+        "sources": [
+          156,
+          157
+        ],
+        "price": 500,
+        "quantity": 1,
+        "bundle_count": 1,
+        "category": "Книги",
+        "infographic": false
+      },
+      {
+        "sku": "BOOK-ERMILOV-KLYUCHI-158",
+        "row": 77,
+        "sources": [
+          158,
+          159
+        ],
+        "price": 500,
+        "quantity": 1,
+        "bundle_count": 1,
+        "category": "Книги",
+        "infographic": false
+      },
+      {
+        "sku": "BOOK-IGUMEN-N-MEZHDU-160",
+        "row": 78,
+        "sources": [
+          160,
+          161
+        ],
+        "price": 500,
+        "quantity": 1,
+        "bundle_count": 1,
+        "category": "Книги",
+        "infographic": false
+      },
+      {
+        "sku": "BOOK-AZY-VERY-162",
+        "row": 79,
+        "sources": [
+          162
+        ],
+        "price": 500,
+        "quantity": 1,
+        "bundle_count": 1,
+        "category": "Книги",
+        "infographic": false
+      },
+      {
+        "sku": "BOOK-GOGOL-IZ-PISEM-163",
+        "row": 80,
+        "sources": [
+          163,
+          164
+        ],
+        "price": 500,
+        "quantity": 1,
+        "bundle_count": 1,
+        "category": "Книги",
+        "infographic": false
+      },
+      {
+        "sku": "BOOK-NIKOLAEVA-APOLOGIYA-165",
+        "row": 81,
+        "sources": [
+          165
+        ],
+        "price": 500,
+        "quantity": 1,
+        "bundle_count": 1,
+        "category": "Книги",
+        "infographic": false
+      },
+      {
+        "sku": "BOOK-NIKOLAEVA-AVGUSTIN-166",
+        "row": 82,
+        "sources": [
+          166
+        ],
+        "price": 500,
+        "quantity": 1,
+        "bundle_count": 1,
+        "category": "Книги",
+        "infographic": false
+      },
+      {
+        "sku": "BOOK-KINOPOVESTI-167",
+        "row": 83,
+        "sources": [
+          167,
+          168
+        ],
+        "price": 500,
+        "quantity": 1,
+        "bundle_count": 1,
+        "category": "Книги",
+        "infographic": false
+      },
+      {
+        "sku": "BOOK-SVYATYE-MOLITSYA-169",
+        "row": 84,
+        "sources": [
+          169,
+          170,
+          171
+        ],
+        "price": 500,
+        "quantity": 1,
+        "bundle_count": 1,
+        "category": "Книги",
+        "infographic": false
+      },
+      {
+        "sku": "BOOK-DOMOSTROY-172",
+        "row": 85,
+        "sources": [
+          172,
+          173,
+          174
+        ],
+        "price": 500,
+        "quantity": 1,
+        "bundle_count": 1,
+        "category": "Книги",
+        "infographic": false
+      },
+      {
+        "sku": "BOOK-BERESTOV-GREKH-175",
+        "row": 86,
+        "sources": [
+          175,
+          176,
+          177
+        ],
+        "price": 500,
+        "quantity": 1,
+        "bundle_count": 1,
+        "category": "Книги",
+        "infographic": false
+      },
+      {
+        "sku": "BOOK-AKAFIST-SERGIYU-178",
+        "row": 87,
+        "sources": [
+          178
+        ],
+        "price": 500,
+        "quantity": 1,
+        "bundle_count": 1,
+        "category": "Книги",
+        "infographic": false
+      },
+      {
+        "sku": "BOOK-VSEGDA-RADUYTES-179",
+        "row": 88,
+        "sources": [
+          179
+        ],
+        "price": 500,
+        "quantity": 1,
+        "bundle_count": 1,
+        "category": "Книги",
+        "infographic": false
+      },
+      {
+        "sku": "BOOK-IGUMEN-N-SERDTSE-180",
+        "row": 89,
+        "sources": [
+          180
+        ],
+        "price": 500,
+        "quantity": 1,
+        "bundle_count": 1,
+        "category": "Книги",
+        "infographic": false
+      },
+      {
+        "sku": "BOOK-SMIRENNYM-181",
+        "row": 90,
+        "sources": [
+          181,
+          182
+        ],
+        "price": 500,
+        "quantity": 1,
+        "bundle_count": 1,
+        "category": "Книги",
+        "infographic": false
+      },
+      {
+        "sku": "BOOK-SHTAYNER-SCENARII-183",
+        "row": 91,
+        "sources": [
+          183,
+          184
+        ],
+        "price": 500,
+        "quantity": 1,
+        "bundle_count": 1,
+        "category": "Книги",
+        "infographic": false
+      }
+    ]
+  }
 }
