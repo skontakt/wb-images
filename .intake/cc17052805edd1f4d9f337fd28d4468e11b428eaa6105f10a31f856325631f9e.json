@@ -1,0 +1,1170 @@
+{
+  "id": "cc17052805edd1f4d9f337fd28d4468e11b428eaa6105f10a31f856325631f9e",
+  "group": "_root",
+  "files": [
+    {
+      "path": "new/BOOK-132.jpg",
+      "sha": "78b8b032a23c931694c9f75e6a7403aaf8917795"
+    },
+    {
+      "path": "new/BOOK-133.jpg",
+      "sha": "1c61a30c9c7c44d6d94f9d3ed081593644883098"
+    },
+    {
+      "path": "new/BOOK-134.jpg",
+      "sha": "ff723902278f26e1772fa2570c374fd48cdff287"
+    },
+    {
+      "path": "new/BOOK-135.jpg",
+      "sha": "2c5155c8500c50999450e5817782f2cb3d7fb951"
+    },
+    {
+      "path": "new/BOOK-136.jpg",
+      "sha": "efc44a2a9c5314c0e697c191a7a7544b8deba1f5"
+    },
+    {
+      "path": "new/BOOK-137.jpg",
+      "sha": "2e71c788ca6effddbdc293289d755a0c72a91cf9"
+    },
+    {
+      "path": "new/BOOK-138.jpg",
+      "sha": "c8e3d48714bb5156bb3ba524efc939876b48cd53"
+    },
+    {
+      "path": "new/BOOK-139.jpg",
+      "sha": "502df25a749eb39c9da51cd6fcdcc0ecf6a0b9fc"
+    },
+    {
+      "path": "new/BOOK-140.jpg",
+      "sha": "1c7d363e489854332c3435f70eb012d2b73de001"
+    },
+    {
+      "path": "new/BOOK-141.jpg",
+      "sha": "54a46448af20bd87b190a579629aade4ab12a527"
+    },
+    {
+      "path": "new/BOOK-142.jpg",
+      "sha": "2eed7add2ebb5e67d03c06d80f7d2fa7cd9075ea"
+    },
+    {
+      "path": "new/BOOK-143.jpg",
+      "sha": "a4b9ecd21eb29b3074a4e376a5492492afb75a21"
+    },
+    {
+      "path": "new/BOOK-144.jpg",
+      "sha": "43759218645809e1f550b204ca41160b03444c5f"
+    },
+    {
+      "path": "new/BOOK-145.jpg",
+      "sha": "8c06d4ff1b3707a8f0a7a90cbe4d82cd7731bf48"
+    },
+    {
+      "path": "new/BOOK-146.jpg",
+      "sha": "daaf950122b4b93f09e72a5206bc49f5fe219d2a"
+    },
+    {
+      "path": "new/BOOK-147.jpg",
+      "sha": "52d2fe085360fba5ca1840f27537e7483b18621b"
+    },
+    {
+      "path": "new/BOOK-148.jpg",
+      "sha": "679a9e19478357fa044c1bdc1eb9b31931c9251b"
+    },
+    {
+      "path": "new/BOOK-149.jpg",
+      "sha": "f5227b15eeda3affa9b01e41015880079635a50b"
+    },
+    {
+      "path": "new/BOOK-150.jpg",
+      "sha": "94d59ab9ca806265f9e0bd94a9c1d195ae1d9ab6"
+    },
+    {
+      "path": "new/BOOK-151.jpg",
+      "sha": "63ee4f290adb343b1b39ee812a00193992f8578c"
+    },
+    {
+      "path": "new/BOOK-152.jpg",
+      "sha": "ece87d9fcd8c9172751251f4323bf0737b0fe3ba"
+    },
+    {
+      "path": "new/BOOK-153.jpg",
+      "sha": "46bf60c663e2168076c338d5330d56b1bd2840e5"
+    },
+    {
+      "path": "new/BOOK-154.jpg",
+      "sha": "2cc5100687c63133194debbaa673c10ae9e3b5dc"
+    },
+    {
+      "path": "new/BOOK-155.jpg",
+      "sha": "5693a795962facc1576796cff6faee17ecae91d2"
+    },
+    {
+      "path": "new/BOOK-156.jpg",
+      "sha": "817777e37e0fe403441825e4304083e0d55ded62"
+    },
+    {
+      "path": "new/BOOK-157.jpg",
+      "sha": "677e3679762e7fa1ef9711f9ae9d3a4845abbdbe"
+    },
+    {
+      "path": "new/BOOK-158.jpg",
+      "sha": "316c1a77c6a809c12c430256edaa4e29b0653e6e"
+    },
+    {
+      "path": "new/BOOK-159.jpg",
+      "sha": "b33ee07737414fc53489bbf1b65b0bc547f68a97"
+    },
+    {
+      "path": "new/BOOK-160.jpg",
+      "sha": "315ae779359cf8731f76cde9108ac4d571475a9c"
+    },
+    {
+      "path": "new/BOOK-161.jpg",
+      "sha": "9dd792aff65940927270fdd393f1dbf39829fc6c"
+    },
+    {
+      "path": "new/BOOK-162.jpg",
+      "sha": "8d2d48705ffd0722c2245ff6a5509376f5bb0a81"
+    },
+    {
+      "path": "new/BOOK-163.jpg",
+      "sha": "9696c04cef3e1962209f213aa996e26895b55d64"
+    },
+    {
+      "path": "new/BOOK-164.jpg",
+      "sha": "8d4f82d3a53f7029f6749e15b550b3454884395f"
+    },
+    {
+      "path": "new/BOOK-165.jpg",
+      "sha": "c5f8a6d4c2f121b754b73bd1030dde4a0bb001e2"
+    },
+    {
+      "path": "new/BOOK-166.jpg",
+      "sha": "37b496a687c5cadd1743cb0c14b7dc6f779778f2"
+    },
+    {
+      "path": "new/BOOK-167.jpg",
+      "sha": "618b827569947c78204f527170f3563ad75066ce"
+    },
+    {
+      "path": "new/BOOK-168.jpg",
+      "sha": "28071621ae9d18814c64a75247d77e6fec26e97e"
+    },
+    {
+      "path": "new/BOOK-169.jpg",
+      "sha": "d82a0dbe890bcd6cc950b4349b13bd3d38bb68fa"
+    },
+    {
+      "path": "new/BOOK-170.jpg",
+      "sha": "97cf33ef470ad3186bfc5b8c43268ca3ed1bbff3"
+    },
+    {
+      "path": "new/BOOK-171.jpg",
+      "sha": "a9fdbb06ce1af79491dc63e8a09af84c6b813ab5"
+    },
+    {
+      "path": "new/BOOK-172.jpg",
+      "sha": "af86333111e29ddee97391aad2587ed02cba2384"
+    },
+    {
+      "path": "new/BOOK-173.jpg",
+      "sha": "d901e585aca92b5a909f64ba1d5c8b5c127c21a7"
+    },
+    {
+      "path": "new/BOOK-174.jpg",
+      "sha": "8463ad97baf60bdfe63f6047d33ffafd1106cce1"
+    },
+    {
+      "path": "new/BOOK-175.jpg",
+      "sha": "fd6e86764fee801bc2615bad0635c7448c035b94"
+    },
+    {
+      "path": "new/BOOK-176.jpg",
+      "sha": "e82e7bc9b42b6bd23187131e989866b06d8528f3"
+    },
+    {
+      "path": "new/BOOK-177.jpg",
+      "sha": "d8bb494bd80c04a627add5fbb84cf1ead854a3b1"
+    },
+    {
+      "path": "new/BOOK-178.jpg",
+      "sha": "d2c65100c63a912074e60a7d28db9568262bbaf6"
+    },
+    {
+      "path": "new/BOOK-179.jpg",
+      "sha": "9ca4bc641351c0173d0f93be61c15966dacf84a8"
+    },
+    {
+      "path": "new/BOOK-180.jpg",
+      "sha": "867751be0b9d08544e74ee154eeb8c589dcc1d0a"
+    },
+    {
+      "path": "new/BOOK-181.jpg",
+      "sha": "fdb4d2f43be071e0a3233e9e519bab388cd13f1c"
+    },
+    {
+      "path": "new/BOOK-182.jpg",
+      "sha": "e5dba304f2d1914da8c106470e6ce0594b5524d8"
+    },
+    {
+      "path": "new/BOOK-183.jpg",
+      "sha": "d36af8b42ba67b68c73b21a43696ab986808a41e"
+    },
+    {
+      "path": "new/BOOK-184.jpg",
+      "sha": "ecbf2d70c6c8cb8aa474da69d5d2bc0569bb08a2"
+    },
+    {
+      "path": "new/BOOK-185.jpg",
+      "sha": "4ac24fc660f0069ec5cd17d5f44842d8752b87d1"
+    },
+    {
+      "path": "new/BOOK-186.jpg",
+      "sha": "0e0557d65bdad9544a893053935cbb5e0e6837d0"
+    },
+    {
+      "path": "new/BOOK-187.jpg",
+      "sha": "f8494872d294399952047c76e2908f55a163724b"
+    },
+    {
+      "path": "new/BOOK-188.jpg",
+      "sha": "7fd4d4bf4e24232a2369287eef70a493b78cc338"
+    },
+    {
+      "path": "new/BOOK-189.jpg",
+      "sha": "24413ff4c491b2cb4a1153c083f3d53fc0fb7cdb"
+    },
+    {
+      "path": "new/BOOK-190.jpg",
+      "sha": "e95a836c788fc0ad9066081c28f00e4a6ee28582"
+    },
+    {
+      "path": "new/BOOK-191.jpg",
+      "sha": "1cb01dbfb998b1e521b6341f53eb07fa530d7b42"
+    },
+    {
+      "path": "new/BOOK-192.jpg",
+      "sha": "1cdd3c77034de1cb030876745ab9c6190ed7e67f"
+    },
+    {
+      "path": "new/BOOK-193.jpg",
+      "sha": "9feb53a864b87f3b7acb18a26c5aee5e34b7ec5c"
+    },
+    {
+      "path": "new/BOOK-194.jpg",
+      "sha": "6f31a4725b0ee4a8ae42c5363012f8c6aa859757"
+    },
+    {
+      "path": "new/BOOK-195.jpg",
+      "sha": "e15f327ca05776203fdec612c7e58cb493f71adc"
+    },
+    {
+      "path": "new/BOOK-196.jpg",
+      "sha": "0f8d7022cf2bd7278e8541ce3b59c51ec24e1b3e"
+    },
+    {
+      "path": "new/BOOK-197.jpg",
+      "sha": "9f757ea0543268617c63e7105b60ecc7075188c0"
+    },
+    {
+      "path": "new/BOOK-198.jpg",
+      "sha": "f01460db21103133b067f232af21827d8c00065b"
+    },
+    {
+      "path": "new/BOOK-199.jpg",
+      "sha": "a321f4b8bb66ed71db8c269a6f6f46e49990f83f"
+    },
+    {
+      "path": "new/BOOK-200.jpg",
+      "sha": "c5e01f84f10035f6e63c46f4644a699204811919"
+    },
+    {
+      "path": "new/BOOK-201.jpg",
+      "sha": "2b3b8e8aaf46afb88ffca9a2f0c7f3039a6897ac"
+    },
+    {
+      "path": "new/BOOK-202.jpg",
+      "sha": "2be1ef075e8cc3be066a6ef3dcc653620700b1e1"
+    },
+    {
+      "path": "new/BOOK-203.jpg",
+      "sha": "366e0bfb7c054fb9f5f086acdaae44d6e1a76cd3"
+    },
+    {
+      "path": "new/BOOK-204.jpg",
+      "sha": "93f126a3d7269a5a038562ffc09f561e86a371c1"
+    },
+    {
+      "path": "new/BOOK-205.jpg",
+      "sha": "f4212b940ebd5477f7fce81bc850bababf2eba60"
+    },
+    {
+      "path": "new/BOOK-206.jpg",
+      "sha": "b7af34f78ffbc015dd9768ffc9c0bf99f9a4d38c"
+    },
+    {
+      "path": "new/BOOK-207.jpg",
+      "sha": "00e8255b5be35c249d9c4740418d2326728101e0"
+    },
+    {
+      "path": "new/BOOK-208.jpg",
+      "sha": "fb628c849cfcd4418a50a4abfedb6a3680719b95"
+    },
+    {
+      "path": "new/BOOK-209.jpg",
+      "sha": "9d40a1888635a4cad654d63f447a423fe22a4bea"
+    },
+    {
+      "path": "new/BOOK-210.jpg",
+      "sha": "412f3fc2ec5d04caf4d10f89521a41fdc9f96444"
+    },
+    {
+      "path": "new/BOOK-211.jpg",
+      "sha": "eb9b5bc4affb20bbf03d3a842ce80052079c4efe"
+    },
+    {
+      "path": "new/BOOK-212.jpg",
+      "sha": "38ee93a85736a743e039cd95d659a51894521b3b"
+    },
+    {
+      "path": "new/BOOK-213.jpg",
+      "sha": "e3e7001f65826175f1fc0bd664d6edf429174769"
+    },
+    {
+      "path": "new/BOOK-214.jpg",
+      "sha": "e9f75414f63a8a32d548550c32733ee9a046bde1"
+    },
+    {
+      "path": "new/BOOK-215.jpg",
+      "sha": "0a65a300a837ffa0a70e1d241d220410590cb2ae"
+    },
+    {
+      "path": "new/BOOK-216.jpg",
+      "sha": "4f737e983839b97770513e90f8c2280cab2d42f4"
+    },
+    {
+      "path": "new/BOOK-217.jpg",
+      "sha": "26c424ebf830069ce3e30255bdcf5de1993da7cb"
+    },
+    {
+      "path": "new/BOOK-218.jpg",
+      "sha": "50ade35b99177b8db007785020f33c7e76abeae6"
+    },
+    {
+      "path": "new/BOOK-219.jpg",
+      "sha": "10083133ab12be2e7218138177f3b4f872f642a0"
+    },
+    {
+      "path": "new/BOOK-220.jpg",
+      "sha": "1dacc6016a5105d0ec684828dc5e9de6d312523b"
+    },
+    {
+      "path": "new/BOOK-221.jpg",
+      "sha": "65207bc31c30d8c4aaf5540ef3d42f4912f4277b"
+    },
+    {
+      "path": "new/BOOK-222.jpg",
+      "sha": "aa15afbaa967a928ea52f38e409bce68d575e533"
+    },
+    {
+      "path": "new/BOOK-223.jpg",
+      "sha": "9a37d49e8deec8cc4cc42cb78c02b042558c980a"
+    },
+    {
+      "path": "new/BOOK-224.jpg",
+      "sha": "c64d3233e1a350f3a7bd872441d64eb82b8d7761"
+    },
+    {
+      "path": "new/BOOK-225.jpg",
+      "sha": "7ec3fa1ec4ebc6997fb70a5a564636d29fbc20af"
+    },
+    {
+      "path": "new/BOOK-226.jpg",
+      "sha": "63e8af391671e5673d8c216f26f388d8f452a5e1"
+    },
+    {
+      "path": "new/BOOK-227.jpg",
+      "sha": "38c20630e5e547d9f87b80035fd4b15c88c5341f"
+    },
+    {
+      "path": "new/BOOK-228.jpg",
+      "sha": "d663a90f428b2099038c0ffb79709dbc26318317"
+    },
+    {
+      "path": "new/BOOK-229.jpg",
+      "sha": "766c36eb9680ff7a89ce46896d5eb6ac9b2df4c6"
+    },
+    {
+      "path": "new/BOOK-230.jpg",
+      "sha": "1ad3c9bac1555b9f27a55ef649b1d85f8ba2b891"
+    },
+    {
+      "path": "new/BOOK-231.jpg",
+      "sha": "bf7ba7a353a3f60ead59e22ba1ceeff80cba9b2c"
+    },
+    {
+      "path": "new/BOOK-232.jpg",
+      "sha": "ef346706cfd3b06b67fb3ed69dc291e3acf16965"
+    },
+    {
+      "path": "new/BOOK-233.jpg",
+      "sha": "2ff8d9e25db24d31f3594f2fb66ee61e89e8939b"
+    },
+    {
+      "path": "new/BOOK-234.jpg",
+      "sha": "1ea9254b5bf9fd2be017043d5dcd29e01058ff98"
+    },
+    {
+      "path": "new/BOOK-235.jpg",
+      "sha": "7106600ea6bca94214e705c6f966a7e3e7cd4bfc"
+    },
+    {
+      "path": "new/BOOK-236.jpg",
+      "sha": "af8df59870a26b35f805d633db7a1a40c332cc4b"
+    },
+    {
+      "path": "new/BOOK-237.jpg",
+      "sha": "8af551f5090a0757e2b4c9db63815d6f35301476"
+    },
+    {
+      "path": "new/BOOK-238.jpg",
+      "sha": "f52e59174b63bad06ab017f65dd6bd726811a6ee"
+    },
+    {
+      "path": "new/BOOK-239.jpg",
+      "sha": "f2cab025f52fdd10f4e36b960cc21b97c20a0fde"
+    },
+    {
+      "path": "new/BOOK-240.jpg",
+      "sha": "81b704c362c2476ec4bfc9546edf9cac9296ec3b"
+    },
+    {
+      "path": "new/BOOK-241.jpg",
+      "sha": "356d0f037c3f92f03723c2a35387ddb4d129efda"
+    },
+    {
+      "path": "new/BOOK-242.jpg",
+      "sha": "308e6e891916b9b1502b777b987a4f90b62fd5f6"
+    },
+    {
+      "path": "new/BOOK-243.jpg",
+      "sha": "97800db6c7378ee0573140f69d6c9de45eba87a8"
+    },
+    {
+      "path": "new/BOOK-244.jpg",
+      "sha": "845ca61f48a222ed08929599577be0f2c2aa8d8f"
+    },
+    {
+      "path": "new/BOOK-245.jpg",
+      "sha": "19596a2306c6b7850953037ed66f20561ac057ad"
+    },
+    {
+      "path": "new/BOOK-246.jpg",
+      "sha": "be910c3c331a8e97fbf4fe7fd36b925e1df31917"
+    },
+    {
+      "path": "new/BOOK-247.jpg",
+      "sha": "8047ee33ca568d09e860ce06e43533a9dc11b924"
+    },
+    {
+      "path": "new/BOOK-248.jpg",
+      "sha": "77926b410a42c37d78efe742d7b0bc62710cdaea"
+    },
+    {
+      "path": "new/BOOK-249.jpg",
+      "sha": "313b2feda736d1a19d02e6ce84d12c4c654293b5"
+    },
+    {
+      "path": "new/BOOK-250.jpg",
+      "sha": "cf35263d665637cbcb7d91ff1208352d8f558662"
+    },
+    {
+      "path": "new/BOOK-251.jpg",
+      "sha": "3d3cd009005ccb5de76a8f6c890d0cfdd7b5a315"
+    },
+    {
+      "path": "new/BOOK-252.jpg",
+      "sha": "e60209637cc00abf79b13083a31c76e143b4eeb9"
+    },
+    {
+      "path": "new/BOOK-253.jpg",
+      "sha": "da3c0bb1ea59aafb78764fa1025cf990d7147b1c"
+    },
+    {
+      "path": "new/BOOK-254.jpg",
+      "sha": "d2884734a9c759c8bdd728705b989f6ffb7aa9d1"
+    },
+    {
+      "path": "new/BOOK-255.jpg",
+      "sha": "a581cbe8d652fc34d1f8d059e245f41cd2ca1d4a"
+    },
+    {
+      "path": "new/BOOK-256.jpg",
+      "sha": "e436aab436d717449eeb541231a57b4655f5549c"
+    },
+    {
+      "path": "new/BOOK-257.jpg",
+      "sha": "b178f18387ccb9624ed7ab1cc08c1d4d9736a3f9"
+    },
+    {
+      "path": "new/BOOK-258.jpg",
+      "sha": "df78f548679c18faefdc670c03a07650a2dbf705"
+    },
+    {
+      "path": "new/BOOK-259.jpg",
+      "sha": "8acf8897e2b8ae2fb90d445cd41262aa18d25695"
+    },
+    {
+      "path": "new/BOOK-260.jpg",
+      "sha": "0013adeb22605f11be48e2f38a019649cbde83fe"
+    },
+    {
+      "path": "new/BOOK-261.jpg",
+      "sha": "a92587b63a139057bc851fd2eca18d1ac6aff5ee"
+    },
+    {
+      "path": "new/BOOK-262.jpg",
+      "sha": "d14f7a7f036a93f548ad1c4112c50a1e6fb626b9"
+    },
+    {
+      "path": "new/BOOK-263.jpg",
+      "sha": "1a49c530f1b11eac9220e4d7420186b2ae240734"
+    },
+    {
+      "path": "new/BOOK-264.jpg",
+      "sha": "19daef2ee57ea9c4f04fa207846106bb451d6a91"
+    },
+    {
+      "path": "new/BOOK-265.jpg",
+      "sha": "c56a8599250910cd67df77426cc63be365081bfd"
+    },
+    {
+      "path": "new/BOOK-266.jpg",
+      "sha": "80d0bf41a11131f5c1d8e7d7d806f56d8407721e"
+    },
+    {
+      "path": "new/BOOK-267.jpg",
+      "sha": "e2cb8ae5201087590e389f941834cee504745556"
+    },
+    {
+      "path": "new/BOOK-268.jpg",
+      "sha": "99b1753127fe0188e5ff440a1a96813b6e546e4c"
+    },
+    {
+      "path": "new/BOOK-269.jpg",
+      "sha": "97396510ddc999809a55cae94b4e5452b75a01e2"
+    },
+    {
+      "path": "new/BOOK-270.jpg",
+      "sha": "1a2ec5590ab932a941a8d4b25dd80c661620e509"
+    },
+    {
+      "path": "new/BOOK-271.jpg",
+      "sha": "7234286973d4549288fe8a8212d38d750c32edcd"
+    },
+    {
+      "path": "new/BOOK-272.jpg",
+      "sha": "77d5b81fc1b1aebab910346ea2d872ade0aa602e"
+    },
+    {
+      "path": "new/BOOK-273.jpg",
+      "sha": "d824d4c229b9469985f5a1c76ad3849dda00d50b"
+    },
+    {
+      "path": "new/BOOK-274.jpg",
+      "sha": "ec8a3501a211fab234c3d414e02606d51488babf"
+    },
+    {
+      "path": "new/BOOK-275.jpg",
+      "sha": "3337cc47541dac26c65cffefaced12712cb14cfa"
+    },
+    {
+      "path": "new/BOOK-276.jpg",
+      "sha": "9e862b6a4582f9ae5dcaefdf825bed7478270592"
+    },
+    {
+      "path": "new/BOOK-277.jpg",
+      "sha": "0be80e95303098bd8a5be605b04117763d1dcc3b"
+    },
+    {
+      "path": "new/BOOK-278.jpg",
+      "sha": "4397db131f77c839ed1f1b0d43ffea4cdca94876"
+    },
+    {
+      "path": "new/BOOK-279.jpg",
+      "sha": "b2b511896c7420b004572965bb11b8c80b010d07"
+    },
+    {
+      "path": "new/BOOK-280.jpg",
+      "sha": "a39a9e22f8c4531e20dd0a86defd828f3c0ba4d5"
+    },
+    {
+      "path": "new/BOOK-281.jpg",
+      "sha": "e70ae7c3edaa109e3e29e1148c09d665c033ab51"
+    },
+    {
+      "path": "new/BOOK-282.jpg",
+      "sha": "cd505d0155a0c9b8698f6cfae29427c833210183"
+    },
+    {
+      "path": "new/BOOK-283.jpg",
+      "sha": "4ec06c88cd861d860adc829975b03668f68235fc"
+    },
+    {
+      "path": "new/BOOK-284.jpg",
+      "sha": "c9445da0dcb48bf0b6189df428192e6795d34d29"
+    },
+    {
+      "path": "new/BOOK-285.jpg",
+      "sha": "6e9fdb3f3c481a0e91df6e68852493cf9ed9f18a"
+    },
+    {
+      "path": "new/BOOK-286.jpg",
+      "sha": "0fe1b8139045067fdb096e85997905a622feac3f"
+    },
+    {
+      "path": "new/BOOK-287.jpg",
+      "sha": "c7aa9709a3028c5363668d76c823da37e51b3f52"
+    },
+    {
+      "path": "new/BOOK-288.jpg",
+      "sha": "b4eccf2a0d19e1ea09154a297b3ee7930f624599"
+    },
+    {
+      "path": "new/BOOK-289.jpg",
+      "sha": "dbf5043c2fd4034dcbecad018f07d4526a4eded6"
+    },
+    {
+      "path": "new/MAG-100.jpg",
+      "sha": "79e5f74e5503bd6a3a81c8337b4694674e0d735f"
+    },
+    {
+      "path": "new/MAG-101.jpg",
+      "sha": "84b0d78ca1a052f1ed57a0ff2ee5adb5735407cb"
+    },
+    {
+      "path": "new/MAG-102.jpg",
+      "sha": "8a41a282a1e6e200566d87d73a6e57f21111e1db"
+    },
+    {
+      "path": "new/MAG-103.jpg",
+      "sha": "2001c696614e41bead187e3e14195242b2d25b31"
+    },
+    {
+      "path": "new/MAG-104.jpg",
+      "sha": "4b3dc6e9efce493bf5dbed0b0f5ebd09dc04b786"
+    },
+    {
+      "path": "new/MAG-105.jpg",
+      "sha": "b0424869b3f03c37c86e96adf6232b8382cebb11"
+    },
+    {
+      "path": "new/MAG-106.jpg",
+      "sha": "8022d9007b72da536c00fc73654149601b6aaf7f"
+    },
+    {
+      "path": "new/MAG-107.jpg",
+      "sha": "26a79d86ca3d946f438e0b3296a86d4d21b57709"
+    },
+    {
+      "path": "new/MAG-108.jpg",
+      "sha": "99469ad7a331025903099d448e11bca0a1135326"
+    },
+    {
+      "path": "new/MAG-109.jpg",
+      "sha": "737810a4df902d332bde253090620a51ccab09f0"
+    },
+    {
+      "path": "new/MAG-110.jpg",
+      "sha": "c894dc526741cf49513888168091e2f083835ffe"
+    },
+    {
+      "path": "new/MAG-111.jpg",
+      "sha": "0d449b92c3b9394522c52dcd56aeda387f16bc5b"
+    },
+    {
+      "path": "new/MAG-112.jpg",
+      "sha": "fb4af25b45b644b4d68731d20e94d1fa557f7667"
+    },
+    {
+      "path": "new/MAG-113.jpg",
+      "sha": "9341b9cfb523810b7d27e8218f467e7c0bffc996"
+    },
+    {
+      "path": "new/MAG-114.jpg",
+      "sha": "070e8904e255668abae47060594a0c58eb020ba6"
+    },
+    {
+      "path": "new/MAG-115.jpg",
+      "sha": "7c5ec11073d51d094411e077992a07d8ee0ca6d6"
+    },
+    {
+      "path": "new/MAG-116.jpg",
+      "sha": "1a075d266fa546b2b6f7b6d329893efcb9712614"
+    },
+    {
+      "path": "new/MAG-117.jpg",
+      "sha": "90d878f0c152cdc16953f7866b00d02f93ccd53a"
+    },
+    {
+      "path": "new/MAG-118.jpg",
+      "sha": "d297350e9f662d7e5730f34f24d13525fb3a0fdd"
+    },
+    {
+      "path": "new/MAG-119.jpg",
+      "sha": "0eefbbef247e380434ba54e4d9c8eb397fb9a600"
+    },
+    {
+      "path": "new/MAG-120.jpg",
+      "sha": "c138dbd7d42d323caa71975d56b411b6260f69c3"
+    },
+    {
+      "path": "new/MAG-121.jpg",
+      "sha": "d8a530926b9adb5d688a2bbc585ffd4555531cca"
+    },
+    {
+      "path": "new/MAG-122.jpg",
+      "sha": "f02b011aa52e43d9b0ef1bebb0915878d2e2d542"
+    },
+    {
+      "path": "new/MAG-123.jpg",
+      "sha": "57e838352c17a3926732b4138ec4404ebc249160"
+    },
+    {
+      "path": "new/MAG-124.jpg",
+      "sha": "b0bc9af656425283a71f020694c9765ca664e1ef"
+    },
+    {
+      "path": "new/MAG-125.jpg",
+      "sha": "47dfefdbeb8b3e973c327c3bb9b87c102538bc20"
+    },
+    {
+      "path": "new/MAG-126.jpg",
+      "sha": "3c634d60d6cd81ed28af1fe583d04a8415621f12"
+    },
+    {
+      "path": "new/MAG-127.jpg",
+      "sha": "84cf7ec3d587fa9cfdaa8bce1442428e4bad7071"
+    },
+    {
+      "path": "new/MAG-128.jpg",
+      "sha": "21f7789a5164dfd4ea4a4847823e440a1e9ff6d5"
+    },
+    {
+      "path": "new/MAG-129.jpg",
+      "sha": "ad0ca184d6300894152ce14df72d7c0b81b064a6"
+    },
+    {
+      "path": "new/MAG-130.jpg",
+      "sha": "3a252573b8a30bef14b3563469b80c12238f6e9a"
+    },
+    {
+      "path": "new/MAG-131.jpg",
+      "sha": "775e29248d77b39e0d74c8701c7d0783f3a196cd"
+    },
+    {
+      "path": "new/book-1.jpg",
+      "sha": "826e21d34c9114527ae47a4da548b359d1d56ff2"
+    },
+    {
+      "path": "new/book-10.jpg",
+      "sha": "c1dbdb397bba92709b9dfbebb8053f8858003ef2"
+    },
+    {
+      "path": "new/book-11.jpg",
+      "sha": "21fadba96ffcfcfabff26b16cfcb9499052e0ab2"
+    },
+    {
+      "path": "new/book-12.jpg",
+      "sha": "31b017d805a8f4c90fc8a925860e11b4a8169a22"
+    },
+    {
+      "path": "new/book-13.jpg",
+      "sha": "d417188f84953cde1bfe614383a28cf195016192"
+    },
+    {
+      "path": "new/book-14.jpg",
+      "sha": "3b138743a9a0aa8087069da16b24d29b91ceab56"
+    },
+    {
+      "path": "new/book-15.jpg",
+      "sha": "cf0645d371f27b9884cb53aa8d20dfee09093ea7"
+    },
+    {
+      "path": "new/book-16.jpg",
+      "sha": "06613771081db3d837f511d6445f9d21cdbba784"
+    },
+    {
+      "path": "new/book-17.jpg",
+      "sha": "babcefa9408f6580be743fa3f7d62c6f94a8354a"
+    },
+    {
+      "path": "new/book-18.jpg",
+      "sha": "729c2740a7b8a0d519f9257e459c6a9b7536c8ed"
+    },
+    {
+      "path": "new/book-19.jpg",
+      "sha": "48b2c8b72a9de7451c41db179984ee40b43659eb"
+    },
+    {
+      "path": "new/book-2.jpg",
+      "sha": "374d93bfc8665c224e55d945bf71e3e905c1680a"
+    },
+    {
+      "path": "new/book-20.jpg",
+      "sha": "924e96283259a3f7331b609080a63be8f1530b54"
+    },
+    {
+      "path": "new/book-21.jpg",
+      "sha": "5bf3110b5e5447a03b5976d5ec934ede8621a96c"
+    },
+    {
+      "path": "new/book-22.jpg",
+      "sha": "6ea9b23b142dedcb2f6c4ab640e17bfd5c52feb9"
+    },
+    {
+      "path": "new/book-23.jpg",
+      "sha": "534eb3b6e7f54ea27b16c371aaffd944d250c9b5"
+    },
+    {
+      "path": "new/book-24.jpg",
+      "sha": "33a7b4429ab173670e79b9088aa4f3dba997262f"
+    },
+    {
+      "path": "new/book-25.jpg",
+      "sha": "90d5ca4762ca1361a4c0c868ec2e472600576f52"
+    },
+    {
+      "path": "new/book-26.jpg",
+      "sha": "a6bd9a7aae4622e509a33d291f006e58bad2e99f"
+    },
+    {
+      "path": "new/book-27.jpg",
+      "sha": "f2edb24705446b7e142d18eebf9902f279ec112d"
+    },
+    {
+      "path": "new/book-28.jpg",
+      "sha": "a2be6d6f77e56bf22aec9c3fce02e84d24517ddb"
+    },
+    {
+      "path": "new/book-29.jpg",
+      "sha": "723c517d4255f116d1e1c91ebc837dc869c4083f"
+    },
+    {
+      "path": "new/book-3.jpg",
+      "sha": "32ba4bd6d87f1333fbac3d22751356bb180f18ec"
+    },
+    {
+      "path": "new/book-30.jpg",
+      "sha": "a6a38c1f46e736a91050d951ca7ebc0d3a480cb6"
+    },
+    {
+      "path": "new/book-31.jpg",
+      "sha": "d29fcc909a9a7129de32ed7bcd78850843c806ff"
+    },
+    {
+      "path": "new/book-32.jpg",
+      "sha": "d4056341b34be28cedd2572424a9e40bc2925c7b"
+    },
+    {
+      "path": "new/book-33.jpg",
+      "sha": "b7a8d9f06c00552760a37b02cf441ed658e90e96"
+    },
+    {
+      "path": "new/book-34.jpg",
+      "sha": "6821fd751cb6e4fa756f2a00e4f0fac16107df0e"
+    },
+    {
+      "path": "new/book-35.jpg",
+      "sha": "4b70b90cacb955b2ab4929f55013b70b64d2e498"
+    },
+    {
+      "path": "new/book-36.jpg",
+      "sha": "c65d011297e395cb30146496eb70e6487eae77b2"
+    },
+    {
+      "path": "new/book-37.jpg",
+      "sha": "06328dec26690aeb8c01bf8b741f4a1270a15f6b"
+    },
+    {
+      "path": "new/book-38.jpg",
+      "sha": "48b3cce3bd287bf61ccc281a8c0df9d991b5e267"
+    },
+    {
+      "path": "new/book-39.jpg",
+      "sha": "962a2b66aa9258d21b48ed205090fd0e6ca605b6"
+    },
+    {
+      "path": "new/book-4.jpg",
+      "sha": "d0098a55b2bb79a3c4cfd85142937ae49899da76"
+    },
+    {
+      "path": "new/book-40.jpg",
+      "sha": "5fa56ea9ccd05553fde211d156c690ae83a3982c"
+    },
+    {
+      "path": "new/book-41.jpg",
+      "sha": "eb1407fec7493249c769a6292fdfe816e5d3f4d8"
+    },
+    {
+      "path": "new/book-42.jpg",
+      "sha": "d28f0b02d1d4c51592f89e00d42766e12f254698"
+    },
+    {
+      "path": "new/book-43.jpg",
+      "sha": "56dd13d568754e932855002adaeda79681ec08d5"
+    },
+    {
+      "path": "new/book-44.jpg",
+      "sha": "f4c9e2e9851e75788485c562c5a5ad22a6eee906"
+    },
+    {
+      "path": "new/book-45.jpg",
+      "sha": "5e4a8be49f31515ff9818a02ea27669f9d9d7e43"
+    },
+    {
+      "path": "new/book-46.jpg",
+      "sha": "75e90a8a21de0aac748540d10f247b3a0f10ea4b"
+    },
+    {
+      "path": "new/book-47.jpg",
+      "sha": "76f1347ce140b59434320a756f7899f4b967bcd9"
+    },
+    {
+      "path": "new/book-48.jpg",
+      "sha": "108d24773b895717e06e0b736f787572b2010ebe"
+    },
+    {
+      "path": "new/book-49.jpg",
+      "sha": "d782b7f958ba62cd2b9a9c596bfffabc880625f8"
+    },
+    {
+      "path": "new/book-5.jpg",
+      "sha": "978d0c881c009f689be50ba39e7a9b105f96274b"
+    },
+    {
+      "path": "new/book-50.jpg",
+      "sha": "7a582b92fbe084661c2d6bb2fa327871d83a8f42"
+    },
+    {
+      "path": "new/book-51.jpg",
+      "sha": "55ea810a8aafdedbdf921110cf6841664ef83648"
+    },
+    {
+      "path": "new/book-52.jpg",
+      "sha": "05a888a0f49aff3820f89545599db50cb7bb596b"
+    },
+    {
+      "path": "new/book-53.jpg",
+      "sha": "1c960f27011e0d7c376060f78bb84414c5e6213c"
+    },
+    {
+      "path": "new/book-54.jpg",
+      "sha": "1ab53473b5a8b5bfeb40958603264f0f8b8150e7"
+    },
+    {
+      "path": "new/book-55.jpg",
+      "sha": "c85289844ade7725a60c9e7c621bc269e2b82ef2"
+    },
+    {
+      "path": "new/book-56.jpg",
+      "sha": "0534ab8d59fb26356eaa93e37ea4586a2e7e700d"
+    },
+    {
+      "path": "new/book-57.jpg",
+      "sha": "ac993f944f79abfa0510b08dfec01252521234bd"
+    },
+    {
+      "path": "new/book-58.jpg",
+      "sha": "ede0944e2d6b6e399aaea383e9de8373d663a083"
+    },
+    {
+      "path": "new/book-59.jpg",
+      "sha": "9dc886b858110953d51666c6907821285fe2d6d2"
+    },
+    {
+      "path": "new/book-6.jpg",
+      "sha": "7794290a763006e8cb9cb958f7ecacbc01cbbbc3"
+    },
+    {
+      "path": "new/book-60.jpg",
+      "sha": "72918a42b0cf9f3f6b901dd21aae8365b59deffa"
+    },
+    {
+      "path": "new/book-61.jpg",
+      "sha": "b723e91635398e0c6c900265a72509c710c87ce9"
+    },
+    {
+      "path": "new/book-62.jpg",
+      "sha": "5f07e7eb081e9e9aa95a9ddac126b0b8c114a064"
+    },
+    {
+      "path": "new/book-63.jpg",
+      "sha": "499534be37ad59d2835f0b1e148d1ea7042c80ee"
+    },
+    {
+      "path": "new/book-64.jpg",
+      "sha": "d9b5d43c426c5c907511d454b4570c878cb9ac79"
+    },
+    {
+      "path": "new/book-65.jpg",
+      "sha": "be034e4435b66610293961800a750ae384356138"
+    },
+    {
+      "path": "new/book-66.jpg",
+      "sha": "51108c4334a9cdf5f0a7dea6c11f27e517039214"
+    },
+    {
+      "path": "new/book-67.jpg",
+      "sha": "7e2a796fd98673978acc41c6c06d2aa94e27860e"
+    },
+    {
+      "path": "new/book-68.jpg",
+      "sha": "051636d57bda869363dce3283c1e677db1b20232"
+    },
+    {
+      "path": "new/book-69.jpg",
+      "sha": "051636d57bda869363dce3283c1e677db1b20232"
+    },
+    {
+      "path": "new/book-7.jpg",
+      "sha": "d1e93a40de96ac0f3b66eb2e348e4c0018305564"
+    },
+    {
+      "path": "new/book-70.jpg",
+      "sha": "1b0c90334682edf5e0074bf8df64c9d74f7f9541"
+    },
+    {
+      "path": "new/book-71.jpg",
+      "sha": "1b0c90334682edf5e0074bf8df64c9d74f7f9541"
+    },
+    {
+      "path": "new/book-72.jpg",
+      "sha": "ba5ad642091b32864f88b1c8b75b4de1e99e4d1e"
+    },
+    {
+      "path": "new/book-73.jpg",
+      "sha": "ba5ad642091b32864f88b1c8b75b4de1e99e4d1e"
+    },
+    {
+      "path": "new/book-74.jpg",
+      "sha": "63056ee502088ef647823d284d350cb4993547f0"
+    },
+    {
+      "path": "new/book-75.jpg",
+      "sha": "63056ee502088ef647823d284d350cb4993547f0"
+    },
+    {
+      "path": "new/book-76.jpg",
+      "sha": "e81fea9633114d5622dbc54e26e1df3f65febd1d"
+    },
+    {
+      "path": "new/book-77.jpg",
+      "sha": "e81fea9633114d5622dbc54e26e1df3f65febd1d"
+    },
+    {
+      "path": "new/book-78.jpg",
+      "sha": "f2420914590ec2600901cc7e9fcd87bca69eb0b7"
+    },
+    {
+      "path": "new/book-79.jpg",
+      "sha": "f2420914590ec2600901cc7e9fcd87bca69eb0b7"
+    },
+    {
+      "path": "new/book-8.jpg",
+      "sha": "cdceab85a50d82a5bd258745daf950944575bd1a"
+    },
+    {
+      "path": "new/book-80.jpg",
+      "sha": "95eeed02b618764ac4a75e07093708d3e9cb151d"
+    },
+    {
+      "path": "new/book-81.jpg",
+      "sha": "95eeed02b618764ac4a75e07093708d3e9cb151d"
+    },
+    {
+      "path": "new/book-82.jpg",
+      "sha": "90e4e0c80ab6ec193594b357e881d36a1f065411"
+    },
+    {
+      "path": "new/book-83.jpg",
+      "sha": "640c4c03ff3742c52928a050fd3eb21d0d2b0392"
+    },
+    {
+      "path": "new/book-84.jpg",
+      "sha": "26f323091d325d53f0c31278d27c44fc7a1417ec"
+    },
+    {
+      "path": "new/book-85.jpg",
+      "sha": "ad92dee51fad7f4171932f870921f9d7d5934c84"
+    },
+    {
+      "path": "new/book-86.jpg",
+      "sha": "a02623546aa73d8527622e0bce57b71b7ab34cb2"
+    },
+    {
+      "path": "new/book-87.jpg",
+      "sha": "9efc4d419f2e9263fd174d35c09879cf433b7ce3"
+    },
+    {
+      "path": "new/book-88.jpg",
+      "sha": "d2532868ebceb7db7ab6f6e49b795012b4d404eb"
+    },
+    {
+      "path": "new/book-89.jpg",
+      "sha": "71cc04866b5c14624791926321ffbb551a993cd3"
+    },
+    {
+      "path": "new/book-9.jpg",
+      "sha": "26aed7b3ccac01a06538dfcf6f4e9a2338f636da"
+    },
+    {
+      "path": "new/book-90.jpg",
+      "sha": "8bf3155909df58ecb7b0cbcdc9d1b8b9ce3905d1"
+    },
+    {
+      "path": "new/book-91.jpg",
+      "sha": "9d20e021e13a0a51b821652e12168699ea67909b"
+    },
+    {
+      "path": "new/book-92.jpg",
+      "sha": "b4b77fc753f1a0d3f811b92e0d35432dd7b61f67"
+    },
+    {
+      "path": "new/book-93.jpg",
+      "sha": "d2234b684bc58a0c7be5e4ab51c6bf89e8603b46"
+    },
+    {
+      "path": "new/book-94.jpg",
+      "sha": "92295b09fb217945e117254bfa8bc6d32afef87e"
+    },
+    {
+      "path": "new/book-95.jpg",
+      "sha": "d876a4e36d24546b6ac9c1e8b60d77071ccd3f83"
+    },
+    {
+      "path": "new/book-96.jpg",
+      "sha": "80c9c2529a957511d5ac85792cbf94982ac2fdaf"
+    },
+    {
+      "path": "new/book-97.jpg",
+      "sha": "27a64f6c98306e11a1c817b54316f16be5acf1d6"
+    },
+    {
+      "path": "new/book-98.jpg",
+      "sha": "7bf5515c4154c10ee6e760c14ec88ce6f4de2e26"
+    },
+    {
+      "path": "new/book-99.jpg",
+      "sha": "e73eb006ad6fba376faa822048765059a1be2841"
+    }
+  ],
+  "status": "awaiting_details",
+  "discovered_at": "2026-11-20T21:17:38.993590+00:00",
+  "questions": [
+    "Категория WB?",
+    "Цена?",
+    "Количество?",
+    "Менять ли стандартный промпт обработки фото? Если да, как?"
+  ]
+}
