@@ -421,9 +421,480 @@
       "sha": "dbf5043c2fd4034dcbecad018f07d4526a4eded6"
     }
   ],
-  "status": "awaiting_details",
+  "status": "processed",
   "id": "df0c80becec1e508468e304fb5338db9ea30a96b4bddd4019e56435b70c29d60",
   "discovered_at": "2026-11-20T21:18:07.106239+00:00",
   "group": "user-selected-books-nov21",
-  "parent_job": "manual-selected-magazines"
+  "parent_job": "manual-selected-magazines",
+  "processed_at": "2026-11-20T21:25:08.212072+00:00",
+  "cleanup_policy": "manual",
+  "result": {
+    "sku": "BATCH-BOOKS-185-289-NOV21",
+    "photos": [
+      "https://raw.githubusercontent.com/skontakt/wb-images/949b8e9f6c924c73f2af824a9e2dfa2ecde4c789/images/BOOK-ADAMS-GALAXY-281-1.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/949b8e9f6c924c73f2af824a9e2dfa2ecde4c789/images/BOOK-ADAMS-GALAXY-281-2.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/949b8e9f6c924c73f2af824a9e2dfa2ecde4c789/images/BOOK-ADAMS-GALAXY-281-3.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/949b8e9f6c924c73f2af824a9e2dfa2ecde4c789/images/BOOK-ADAMS-GALAXY-281-4.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/949b8e9f6c924c73f2af824a9e2dfa2ecde4c789/images/BOOK-BALZAC-ILLUSIONS-232-1.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/949b8e9f6c924c73f2af824a9e2dfa2ecde4c789/images/BOOK-BALZAC-ILLUSIONS-232-2.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/949b8e9f6c924c73f2af824a9e2dfa2ecde4c789/images/BOOK-BALZAC-ILLUSIONS-232-3.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/949b8e9f6c924c73f2af824a9e2dfa2ecde4c789/images/BOOK-BALZAC-ILLUSIONS-232-4.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/949b8e9f6c924c73f2af824a9e2dfa2ecde4c789/images/BOOK-BAVILSKY-GOROD-265-1.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/949b8e9f6c924c73f2af824a9e2dfa2ecde4c789/images/BOOK-BAVILSKY-GOROD-265-2.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/949b8e9f6c924c73f2af824a9e2dfa2ecde4c789/images/BOOK-BAVILSKY-GOROD-265-3.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/949b8e9f6c924c73f2af824a9e2dfa2ecde4c789/images/BOOK-BAVILSKY-GOROD-265-4.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/949b8e9f6c924c73f2af824a9e2dfa2ecde4c789/images/BOOK-BAVILSKY-GOROD-265-5.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/949b8e9f6c924c73f2af824a9e2dfa2ecde4c789/images/BOOK-BAVILSKY-GOROD-265-6.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/949b8e9f6c924c73f2af824a9e2dfa2ecde4c789/images/BOOK-BILZHO-VENICE-261-1.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/949b8e9f6c924c73f2af824a9e2dfa2ecde4c789/images/BOOK-BILZHO-VENICE-261-2.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/949b8e9f6c924c73f2af824a9e2dfa2ecde4c789/images/BOOK-BILZHO-VENICE-261-3.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/949b8e9f6c924c73f2af824a9e2dfa2ecde4c789/images/BOOK-BILZHO-VENICE-261-4.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/949b8e9f6c924c73f2af824a9e2dfa2ecde4c789/images/BOOK-BULGAKOV-GVARDIYA-188-1.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/949b8e9f6c924c73f2af824a9e2dfa2ecde4c789/images/BOOK-BULGAKOV-GVARDIYA-188-2.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/949b8e9f6c924c73f2af824a9e2dfa2ecde4c789/images/BOOK-BULGAKOV-GVARDIYA-188-3.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/949b8e9f6c924c73f2af824a9e2dfa2ecde4c789/images/BOOK-DK-PROVENCE-255-1.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/949b8e9f6c924c73f2af824a9e2dfa2ecde4c789/images/BOOK-DK-PROVENCE-255-2.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/949b8e9f6c924c73f2af824a9e2dfa2ecde4c789/images/BOOK-DK-PROVENCE-255-3.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/949b8e9f6c924c73f2af824a9e2dfa2ecde4c789/images/BOOK-DK-PROVENCE-255-4.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/949b8e9f6c924c73f2af824a9e2dfa2ecde4c789/images/BOOK-DK-PROVENCE-255-5.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/949b8e9f6c924c73f2af824a9e2dfa2ecde4c789/images/BOOK-DK-PROVENCE-255-6.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/949b8e9f6c924c73f2af824a9e2dfa2ecde4c789/images/BOOK-DUMAS-MUSHKETERY-278-1.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/949b8e9f6c924c73f2af824a9e2dfa2ecde4c789/images/BOOK-DUMAS-MUSHKETERY-278-2.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/949b8e9f6c924c73f2af824a9e2dfa2ecde4c789/images/BOOK-DUMAS-MUSHKETERY-278-3.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/949b8e9f6c924c73f2af824a9e2dfa2ecde4c789/images/BOOK-FITZGERALD-NOCH-285-1.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/949b8e9f6c924c73f2af824a9e2dfa2ecde4c789/images/BOOK-FITZGERALD-NOCH-285-2.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/949b8e9f6c924c73f2af824a9e2dfa2ecde4c789/images/BOOK-FITZGERALD-NOCH-285-3.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/949b8e9f6c924c73f2af824a9e2dfa2ecde4c789/images/BOOK-FITZGERALD-NOCH-285-4.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/949b8e9f6c924c73f2af824a9e2dfa2ecde4c789/images/BOOK-FITZGERALD-NOCH-285-5.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/949b8e9f6c924c73f2af824a9e2dfa2ecde4c789/images/BOOK-FORDEN-GUCCI-185-1.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/949b8e9f6c924c73f2af824a9e2dfa2ecde4c789/images/BOOK-FORDEN-GUCCI-185-2.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/949b8e9f6c924c73f2af824a9e2dfa2ecde4c789/images/BOOK-FORDEN-GUCCI-185-3.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/949b8e9f6c924c73f2af824a9e2dfa2ecde4c789/images/BOOK-HOCKEY-ANATOMY-242-1.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/949b8e9f6c924c73f2af824a9e2dfa2ecde4c789/images/BOOK-HOCKEY-ANATOMY-242-2.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/949b8e9f6c924c73f2af824a9e2dfa2ecde4c789/images/BOOK-HOCKEY-ANATOMY-242-3.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/949b8e9f6c924c73f2af824a9e2dfa2ecde4c789/images/BOOK-HOCKEY-ANATOMY-242-4.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/949b8e9f6c924c73f2af824a9e2dfa2ecde4c789/images/BOOK-HOCKEY-ANATOMY-242-5.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/949b8e9f6c924c73f2af824a9e2dfa2ecde4c789/images/BOOK-KAFKA-COLLECTION-221-1.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/949b8e9f6c924c73f2af824a9e2dfa2ecde4c789/images/BOOK-KAFKA-COLLECTION-221-2.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/949b8e9f6c924c73f2af824a9e2dfa2ecde4c789/images/BOOK-KAFKA-COLLECTION-221-3.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/949b8e9f6c924c73f2af824a9e2dfa2ecde4c789/images/BOOK-KAFKA-COLLECTION-221-4.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/949b8e9f6c924c73f2af824a9e2dfa2ecde4c789/images/BOOK-KUPRIN-POEDINOK-275-1.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/949b8e9f6c924c73f2af824a9e2dfa2ecde4c789/images/BOOK-KUPRIN-POEDINOK-275-2.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/949b8e9f6c924c73f2af824a9e2dfa2ecde4c789/images/BOOK-KUPRIN-POEDINOK-275-3.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/949b8e9f6c924c73f2af824a9e2dfa2ecde4c789/images/BOOK-MORTON-ECOLOGY-194-1.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/949b8e9f6c924c73f2af824a9e2dfa2ecde4c789/images/BOOK-MORTON-ECOLOGY-194-2.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/949b8e9f6c924c73f2af824a9e2dfa2ecde4c789/images/BOOK-MORTON-ECOLOGY-194-3.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/949b8e9f6c924c73f2af824a9e2dfa2ecde4c789/images/BOOK-SEMENOV-TEHRAN-251-1.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/949b8e9f6c924c73f2af824a9e2dfa2ecde4c789/images/BOOK-SEMENOV-TEHRAN-251-2.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/949b8e9f6c924c73f2af824a9e2dfa2ecde4c789/images/BOOK-SEMENOV-TEHRAN-251-3.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/949b8e9f6c924c73f2af824a9e2dfa2ecde4c789/images/BOOK-SEMENOV-TEHRAN-251-4.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/949b8e9f6c924c73f2af824a9e2dfa2ecde4c789/images/BOOK-SHARGUNOV-1993-271-1.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/949b8e9f6c924c73f2af824a9e2dfa2ecde4c789/images/BOOK-SHARGUNOV-1993-271-2.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/949b8e9f6c924c73f2af824a9e2dfa2ecde4c789/images/BOOK-SHARGUNOV-1993-271-3.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/949b8e9f6c924c73f2af824a9e2dfa2ecde4c789/images/BOOK-SHARGUNOV-1993-271-4.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/949b8e9f6c924c73f2af824a9e2dfa2ecde4c789/images/BOOK-SMITH-BARRY-LOSER-197-1.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/949b8e9f6c924c73f2af824a9e2dfa2ecde4c789/images/BOOK-SMITH-BARRY-LOSER-197-2.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/949b8e9f6c924c73f2af824a9e2dfa2ecde4c789/images/BOOK-SMITH-BARRY-LOSER-197-3.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/949b8e9f6c924c73f2af824a9e2dfa2ecde4c789/images/BOOK-STOPPARD-MOON-209-1.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/949b8e9f6c924c73f2af824a9e2dfa2ecde4c789/images/BOOK-STOPPARD-MOON-209-2.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/949b8e9f6c924c73f2af824a9e2dfa2ecde4c789/images/BOOK-STOPPARD-MOON-209-3.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/949b8e9f6c924c73f2af824a9e2dfa2ecde4c789/images/BOOK-STOPPARD-MOON-209-4.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/949b8e9f6c924c73f2af824a9e2dfa2ecde4c789/images/BOOK-STOPPARD-MOON-209-5.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/949b8e9f6c924c73f2af824a9e2dfa2ecde4c789/images/BOOK-SUVOROV-NAUKA-236-1.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/949b8e9f6c924c73f2af824a9e2dfa2ecde4c789/images/BOOK-SUVOROV-NAUKA-236-2.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/949b8e9f6c924c73f2af824a9e2dfa2ecde4c789/images/BOOK-SUVOROV-NAUKA-236-3.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/949b8e9f6c924c73f2af824a9e2dfa2ecde4c789/images/BOOK-SUVOROV-NAUKA-236-4.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/949b8e9f6c924c73f2af824a9e2dfa2ecde4c789/images/BOOK-SUVOROV-NAUKA-236-5.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/949b8e9f6c924c73f2af824a9e2dfa2ecde4c789/images/BOOK-SUVOROV-NAUKA-236-6.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/949b8e9f6c924c73f2af824a9e2dfa2ecde4c789/images/BOOK-TARANTINO-HOLLYWOOD-191-1.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/949b8e9f6c924c73f2af824a9e2dfa2ecde4c789/images/BOOK-TARANTINO-HOLLYWOOD-191-2.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/949b8e9f6c924c73f2af824a9e2dfa2ecde4c789/images/BOOK-TARANTINO-HOLLYWOOD-191-3.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/949b8e9f6c924c73f2af824a9e2dfa2ecde4c789/images/BOOK-TOLKIEN-LOTR-EN-214-1.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/949b8e9f6c924c73f2af824a9e2dfa2ecde4c789/images/BOOK-TOLKIEN-LOTR-EN-214-2.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/949b8e9f6c924c73f2af824a9e2dfa2ecde4c789/images/BOOK-TOLKIEN-LOTR-EN-214-3.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/949b8e9f6c924c73f2af824a9e2dfa2ecde4c789/images/BOOK-TOLKIEN-LOTR-EN-214-4.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/949b8e9f6c924c73f2af824a9e2dfa2ecde4c789/images/BOOK-TOLKIEN-LOTR-EN-214-5.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/949b8e9f6c924c73f2af824a9e2dfa2ecde4c789/images/BOOK-TOLKIEN-LOTR-EN-214-6.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/949b8e9f6c924c73f2af824a9e2dfa2ecde4c789/images/BOOK-TOLKIEN-LOTR-EN-214-7.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/949b8e9f6c924c73f2af824a9e2dfa2ecde4c789/images/BOOK-TSYPKIN-DOM-206-1.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/949b8e9f6c924c73f2af824a9e2dfa2ecde4c789/images/BOOK-TSYPKIN-DOM-206-2.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/949b8e9f6c924c73f2af824a9e2dfa2ecde4c789/images/BOOK-TSYPKIN-DOM-206-3.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/949b8e9f6c924c73f2af824a9e2dfa2ecde4c789/images/BOOK-TSYPKIN-RODINA-200-1.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/949b8e9f6c924c73f2af824a9e2dfa2ecde4c789/images/BOOK-TSYPKIN-RODINA-200-2.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/949b8e9f6c924c73f2af824a9e2dfa2ecde4c789/images/BOOK-TSYPKIN-RODINA-200-3.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/949b8e9f6c924c73f2af824a9e2dfa2ecde4c789/images/BOOK-TSYPKIN-ZHENSHCHINY-203-1.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/949b8e9f6c924c73f2af824a9e2dfa2ecde4c789/images/BOOK-TSYPKIN-ZHENSHCHINY-203-2.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/949b8e9f6c924c73f2af824a9e2dfa2ecde4c789/images/BOOK-TSYPKIN-ZHENSHCHINY-203-3.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/949b8e9f6c924c73f2af824a9e2dfa2ecde4c789/images/BOOK-WELLS-WAR-225-1.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/949b8e9f6c924c73f2af824a9e2dfa2ecde4c789/images/BOOK-WELLS-WAR-225-2.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/949b8e9f6c924c73f2af824a9e2dfa2ecde4c789/images/BOOK-WELLS-WAR-225-3.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/949b8e9f6c924c73f2af824a9e2dfa2ecde4c789/images/BOOK-WELLS-WAR-225-4.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/949b8e9f6c924c73f2af824a9e2dfa2ecde4c789/images/BOOK-WELLS-WAR-225-5.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/949b8e9f6c924c73f2af824a9e2dfa2ecde4c789/images/BOOK-WELLS-WAR-225-6.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/949b8e9f6c924c73f2af824a9e2dfa2ecde4c789/images/BOOK-WELLS-WAR-225-7.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/949b8e9f6c924c73f2af824a9e2dfa2ecde4c789/images/BOOK-WINE-FOLLY-247-1.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/949b8e9f6c924c73f2af824a9e2dfa2ecde4c789/images/BOOK-WINE-FOLLY-247-2.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/949b8e9f6c924c73f2af824a9e2dfa2ecde4c789/images/BOOK-WINE-FOLLY-247-3.jpg",
+      "https://raw.githubusercontent.com/skontakt/wb-images/949b8e9f6c924c73f2af824a9e2dfa2ecde4c789/images/BOOK-WINE-FOLLY-247-4.jpg"
+    ],
+    "row_url": "https://docs.google.com/spreadsheets/d/1v4-xR4Wv9K7mI9legyHTEiqYcGScewR5UTwJWiBEVwg/edit#gid=985879740&range=A92:AN116",
+    "products": [
+      {
+        "sku": "BOOK-FORDEN-GUCCI-185",
+        "row": 92,
+        "sources": [
+          185,
+          186,
+          187
+        ],
+        "price": 2500,
+        "quantity": 1,
+        "category": "Книги",
+        "infographic": false
+      },
+      {
+        "sku": "BOOK-BULGAKOV-GVARDIYA-188",
+        "row": 93,
+        "sources": [
+          188,
+          189,
+          190
+        ],
+        "price": 1500,
+        "quantity": 1,
+        "category": "Книги",
+        "infographic": false
+      },
+      {
+        "sku": "BOOK-TARANTINO-HOLLYWOOD-191",
+        "row": 94,
+        "sources": [
+          191,
+          192,
+          193
+        ],
+        "price": 2200,
+        "quantity": 1,
+        "category": "Книги",
+        "infographic": false
+      },
+      {
+        "sku": "BOOK-MORTON-ECOLOGY-194",
+        "row": 95,
+        "sources": [
+          194,
+          195,
+          196
+        ],
+        "price": 2500,
+        "quantity": 1,
+        "category": "Книги",
+        "infographic": false
+      },
+      {
+        "sku": "BOOK-SMITH-BARRY-LOSER-197",
+        "row": 96,
+        "sources": [
+          197,
+          198,
+          199
+        ],
+        "price": 1500,
+        "quantity": 1,
+        "category": "Книги",
+        "infographic": false
+      },
+      {
+        "sku": "BOOK-TSYPKIN-RODINA-200",
+        "row": 97,
+        "sources": [
+          200,
+          201,
+          202
+        ],
+        "price": 1800,
+        "quantity": 1,
+        "category": "Книги",
+        "infographic": false
+      },
+      {
+        "sku": "BOOK-TSYPKIN-ZHENSHCHINY-203",
+        "row": 98,
+        "sources": [
+          203,
+          204,
+          205
+        ],
+        "price": 1800,
+        "quantity": 1,
+        "category": "Книги",
+        "infographic": false
+      },
+      {
+        "sku": "BOOK-TSYPKIN-DOM-206",
+        "row": 99,
+        "sources": [
+          206,
+          207,
+          208
+        ],
+        "price": 1800,
+        "quantity": 1,
+        "category": "Книги",
+        "infographic": false
+      },
+      {
+        "sku": "BOOK-STOPPARD-MOON-209",
+        "row": 100,
+        "sources": [
+          209,
+          210,
+          211,
+          212,
+          213
+        ],
+        "price": 3000,
+        "quantity": 1,
+        "category": "Букинистические книги",
+        "infographic": false
+      },
+      {
+        "sku": "BOOK-TOLKIEN-LOTR-EN-214",
+        "row": 101,
+        "sources": [
+          214,
+          215,
+          216,
+          217,
+          218,
+          219,
+          220
+        ],
+        "price": 10000,
+        "quantity": 1,
+        "category": "Букинистические книги",
+        "infographic": true
+      },
+      {
+        "sku": "BOOK-KAFKA-COLLECTION-221",
+        "row": 102,
+        "sources": [
+          221,
+          222,
+          223,
+          224
+        ],
+        "price": 3000,
+        "quantity": 1,
+        "category": "Книги",
+        "infographic": false
+      },
+      {
+        "sku": "BOOK-WELLS-WAR-225",
+        "row": 103,
+        "sources": [
+          225,
+          226,
+          227,
+          228,
+          229,
+          230,
+          231
+        ],
+        "price": 3000,
+        "quantity": 1,
+        "category": "Книги",
+        "infographic": false
+      },
+      {
+        "sku": "BOOK-BALZAC-ILLUSIONS-232",
+        "row": 104,
+        "sources": [
+          232,
+          233,
+          234,
+          235
+        ],
+        "price": 1000,
+        "quantity": 1,
+        "category": "Букинистические книги",
+        "infographic": false
+      },
+      {
+        "sku": "BOOK-SUVOROV-NAUKA-236",
+        "row": 105,
+        "sources": [
+          236,
+          237,
+          238,
+          239,
+          240,
+          241
+        ],
+        "price": 3000,
+        "quantity": 1,
+        "category": "Книги",
+        "infographic": false
+      },
+      {
+        "sku": "BOOK-HOCKEY-ANATOMY-242",
+        "row": 106,
+        "sources": [
+          242,
+          243,
+          244,
+          245,
+          246
+        ],
+        "price": 3500,
+        "quantity": 1,
+        "category": "Книги",
+        "infographic": false
+      },
+      {
+        "sku": "BOOK-WINE-FOLLY-247",
+        "row": 107,
+        "sources": [
+          247,
+          248,
+          249,
+          250
+        ],
+        "price": 4500,
+        "quantity": 1,
+        "category": "Книги",
+        "infographic": false
+      },
+      {
+        "sku": "BOOK-SEMENOV-TEHRAN-251",
+        "row": 108,
+        "sources": [
+          251,
+          252,
+          253,
+          254
+        ],
+        "price": 2200,
+        "quantity": 1,
+        "category": "Книги",
+        "infographic": false
+      },
+      {
+        "sku": "BOOK-DK-PROVENCE-255",
+        "row": 109,
+        "sources": [
+          255,
+          256,
+          257,
+          258,
+          259,
+          260
+        ],
+        "price": 3000,
+        "quantity": 1,
+        "category": "Книги",
+        "infographic": false
+      },
+      {
+        "sku": "BOOK-BILZHO-VENICE-261",
+        "row": 110,
+        "sources": [
+          261,
+          262,
+          263,
+          264
+        ],
+        "price": 2500,
+        "quantity": 1,
+        "category": "Книги",
+        "infographic": false
+      },
+      {
+        "sku": "BOOK-BAVILSKY-GOROD-265",
+        "row": 111,
+        "sources": [
+          265,
+          266,
+          267,
+          268,
+          269,
+          270
+        ],
+        "price": 3500,
+        "quantity": 1,
+        "category": "Книги",
+        "infographic": false
+      },
+      {
+        "sku": "BOOK-SHARGUNOV-1993-271",
+        "row": 112,
+        "sources": [
+          271,
+          272,
+          273,
+          274
+        ],
+        "price": 1800,
+        "quantity": 1,
+        "category": "Книги",
+        "infographic": false
+      },
+      {
+        "sku": "BOOK-KUPRIN-POEDINOK-275",
+        "row": 113,
+        "sources": [
+          275,
+          276,
+          277
+        ],
+        "price": 200,
+        "quantity": 1,
+        "category": "Букинистические книги",
+        "infographic": false
+      },
+      {
+        "sku": "BOOK-DUMAS-MUSHKETERY-278",
+        "row": 114,
+        "sources": [
+          278,
+          279,
+          280
+        ],
+        "price": 800,
+        "quantity": 1,
+        "category": "Букинистические книги",
+        "infographic": false
+      },
+      {
+        "sku": "BOOK-ADAMS-GALAXY-281",
+        "row": 115,
+        "sources": [
+          281,
+          282,
+          283,
+          284
+        ],
+        "price": 800,
+        "quantity": 1,
+        "category": "Букинистические книги",
+        "infographic": false
+      },
+      {
+        "sku": "BOOK-FITZGERALD-NOCH-285",
+        "row": 116,
+        "sources": [
+          285,
+          286,
+          287,
+          288,
+          289
+        ],
+        "price": 800,
+        "quantity": 1,
+        "category": "Букинистические книги",
+        "infographic": false
+      }
+    ],
+    "photo_policy": "Vertical 900x1200 crop only, except explicit pencil-note overlay on LOTR main"
+  }
 }
